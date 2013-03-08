@@ -1,0 +1,4617 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Thea Render RV678\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-21 13:02+0200\n"
+"PO-Revision-Date: 2013-03-08 20:40+0200\n"
+"Last-Translator: Nursill <Nursill@gmail.com>\n"
+"Language-Team: <>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _wT\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: T:/Thea/Source/Interface/TheaStudio\n"
+
+msgid "Please enter new name."
+msgstr "Введите новое название"
+
+msgid "Rename Item"
+msgstr "Переименовать элемент"
+
+msgid "Scene"
+msgstr "Сцена"
+
+msgid "Models"
+msgstr "Модели"
+
+msgid "Point Lights"
+msgstr "Свет"
+
+msgid "Cameras"
+msgstr "Камера"
+
+msgid "Materials"
+msgstr "Материалы"
+
+msgid "Proxies"
+msgstr "Прокси"
+
+msgid "New"
+msgstr "Новый"
+
+msgid "Cut"
+msgstr "Вырезать"
+
+msgid "Copy"
+msgstr "Копировать"
+
+msgid "Paste"
+msgstr "Вставить"
+
+msgid "Duplicate"
+msgstr "Дублировать"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Build All Material Previews"
+msgstr "Предпросмотр всех материалов"
+
+msgid "Sort Scene"
+msgstr "Сортировать сцены"
+
+msgid "Clean Up Scene"
+msgstr "Очистка сцены"
+
+msgid "Transform Scene"
+msgstr "Преобразование сцены"
+
+msgid "Unselect"
+msgstr "Очистить"
+
+msgid "Smooth"
+msgstr "Сгладить"
+
+msgid "Periodic"
+msgstr "Периодически"
+
+msgid "Closed"
+msgstr "Закрытый"
+
+msgid "Set Duration..."
+msgstr ""
+
+msgid "Active Track"
+msgstr ""
+
+msgid "Paste Follow"
+msgstr ""
+
+msgid "Free"
+msgstr "Свободный"
+
+msgid "Lock +z"
+msgstr ""
+
+msgid "Lock -z"
+msgstr ""
+
+msgid "Lock +y"
+msgstr ""
+
+msgid "Lock -y"
+msgstr ""
+
+msgid "Lock +x"
+msgstr ""
+
+msgid "Lock -x"
+msgstr ""
+
+msgid "Rolling"
+msgstr ""
+
+msgid "Target"
+msgstr "Цель"
+
+msgid "&Save Selected Motion..."
+msgstr ""
+
+msgid "Presets"
+msgstr "Предустановленные настройки"
+
+msgid "Model Group"
+msgstr "Группа моделей"
+
+msgid "Group"
+msgstr "Группа"
+
+msgid "Ungroup"
+msgstr "Разгруппировать"
+
+msgid "Paste Into"
+msgstr "Вставить в"
+
+msgid "Clear"
+msgstr "Очис"
+
+msgid "Build"
+msgstr "Построить"
+
+msgid "Rebuild"
+msgstr "Перестроить"
+
+msgid "Clear All"
+msgstr "Очистить все"
+
+msgid "Build All"
+msgstr "Построить все"
+
+msgid "Rebuild All"
+msgstr "Перестроить все"
+
+msgid "Global Medium"
+msgstr ""
+
+msgid "Layer"
+msgstr "Слой"
+
+msgid "Flat"
+msgstr "Плоскость"
+
+msgid "deg"
+msgstr ""
+
+msgid "Planar"
+msgstr ""
+
+msgid "Charles-Loop"
+msgstr ""
+
+msgid "Smoothing"
+msgstr "Сглаживание"
+
+msgid "Subdivision"
+msgstr "Подраздел"
+
+msgid "Weld Vertices"
+msgstr "Объединить вершины"
+
+msgid "Flip Normals"
+msgstr ""
+
+msgid "Center Pivot"
+msgstr ""
+
+msgid "Commit Position"
+msgstr ""
+
+msgid "Paste From"
+msgstr "Вставить из"
+
+msgid "Make Unique"
+msgstr "Сделать уникальным"
+
+msgid "Select Models"
+msgstr "Выбор моделей"
+
+msgid "Reload Bitmaps"
+msgstr ""
+
+msgid "Two-Sided"
+msgstr ""
+
+msgid "Shadow Catcher"
+msgstr ""
+
+msgid "Repaintable"
+msgstr ""
+
+msgid "Shadow Tight"
+msgstr ""
+
+msgid "Shadow Receiver"
+msgstr "На объект падает тень"
+
+msgid "Caustics Transmitter"
+msgstr ""
+
+msgid "Caustics Receiver"
+msgstr ""
+
+msgid "Swapped YZ"
+msgstr ""
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Sort"
+msgstr ""
+
+msgid "Clean Up"
+msgstr "Очистить"
+
+msgid "Edit"
+msgstr "Редактирвоать"
+
+msgid "Preview"
+msgstr "Предпросмотр материала"
+
+msgid "Assign Material"
+msgstr "Назначить материал"
+
+msgid "Assign Container"
+msgstr ""
+
+msgid "Assign Layer"
+msgstr "Назначить слой"
+
+msgid "Geometry"
+msgstr "Геометрия"
+
+msgid "Material"
+msgstr "Материал"
+
+msgid "Motion"
+msgstr ""
+
+msgid "Enabled"
+msgstr "Включить"
+
+msgid "Visible"
+msgstr "Видимый"
+
+msgid "Shadow Caster"
+msgstr "Объект проецирует тень"
+
+msgid "More"
+msgstr "Больше"
+
+msgid "All Models"
+msgstr "Все модели"
+
+msgid "All Proxies"
+msgstr "Все прокси"
+
+msgid "Light Group"
+msgstr "Группа света"
+
+msgid "Global Photons"
+msgstr ""
+
+msgid "Caustic Photons"
+msgstr ""
+
+msgid "Shadow"
+msgstr "Тень"
+
+msgid "Soft Shadow"
+msgstr "Мягкие тени"
+
+msgid "All Lights"
+msgstr "Весь свет"
+
+msgid "Camera"
+msgstr "Камера"
+
+msgid "Current Position"
+msgstr "Текущая позиция"
+
+msgid "Current View"
+msgstr "Текущий вид"
+
+msgid "Go To"
+msgstr "Перейти к"
+
+msgid "Pinhole"
+msgstr ""
+
+msgid "Auto-Focus"
+msgstr "Авто-фокус"
+
+msgid "All Cameras"
+msgstr "Все камеры"
+
+msgid "All Materials"
+msgstr "Все материалы"
+
+msgid "Move to Origin"
+msgstr "В начало кооридант"
+
+msgid "Move to Ground"
+msgstr "Переместить на землю"
+
+msgid "Swap Y-Z"
+msgstr ""
+
+msgid "Scale..."
+msgstr "Шкала..."
+
+msgid "Transform"
+msgstr "Преобразовать"
+
+msgid "All Objects"
+msgstr "Все объекты"
+
+msgid ""
+"Committing position to the base surface is an irreversible procedure.\n"
+"Note: procedure will be skipped for animated and proxy surfaces."
+msgstr ""
+
+msgid "Commit Position?"
+msgstr "Фиксация позиция?"
+
+msgid ""
+"Please enter number of subdivisions (1 corresponds to single subdivision)."
+msgstr ""
+
+msgid "Warning: you will not be able to undo this operation."
+msgstr ""
+
+msgid "Subdivision Level"
+msgstr ""
+
+msgid "Please enter duration in key frames for cycling motion."
+msgstr ""
+
+msgid "Cycle Duration"
+msgstr ""
+
+msgid "Please enter preset name."
+msgstr "Введите наименование предустановки"
+
+msgid "Preset Name"
+msgstr "Название предустановки"
+
+msgid ""
+"Another file with the same name exists.\n"
+"Would you like to overwrite it?"
+msgstr ""
+
+msgid "Overwrite File?"
+msgstr "Заменить файл?"
+
+msgid "Please enter numeric scale for the whole scene."
+msgstr ""
+
+msgid "Scale Input"
+msgstr ""
+
+msgid "Illuminance"
+msgstr "Освещенность"
+
+msgid "Luminance"
+msgstr "Яркость"
+
+msgid "Revert"
+msgstr "Назад"
+
+msgid "Open"
+msgstr "Откр"
+
+msgid "All Files"
+msgstr "Все файлы"
+
+msgid "Missing Bitmaps"
+msgstr ""
+
+msgid "Some bitmaps are missing, click the button on the left for details."
+msgstr ""
+
+msgid "Execute Script"
+msgstr ""
+
+msgid "Name"
+msgstr "Название"
+
+msgid "Render Jobs"
+msgstr ""
+
+msgid "Parsing"
+msgstr ""
+
+msgid "Success"
+msgstr "Успех"
+
+msgid "Failed at line"
+msgstr "Ошибка в строке"
+
+msgid "Stop on error"
+msgstr "Остановка иза ошибки"
+
+msgid "Install Library"
+msgstr "Установить библиотеку"
+
+msgid "Name:"
+msgstr "Название:"
+
+msgid "Author:"
+msgstr "Автор:"
+
+msgid "Version:"
+msgstr "Версия:"
+
+msgid "Installed:"
+msgstr "Установленный:"
+
+msgid "Folder:"
+msgstr "Папка:"
+
+msgid "Description:"
+msgstr "Описание:"
+
+msgid "License:"
+msgstr "Лицензия:"
+
+msgid "Accept License Agreement"
+msgstr "Примите лицензионное соглашение"
+
+msgid "Select Installation Folder"
+msgstr "Выбор папки установки"
+
+msgid "Extracting Files"
+msgstr "Извлечение файлов"
+
+msgid "Installation Complete"
+msgstr "Установка завершена"
+
+msgid ""
+"Failed to write some library files (possible reasons: not enough disk space, "
+"read-only file, administrator privileges required)."
+msgstr ""
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "[Ok] "
+msgstr "[Ok] "
+
+msgid "[Failed] "
+msgstr "[Неудача] "
+
+msgid "Please wait..."
+msgstr "Пожалуйста, подождите ..."
+
+msgid "Import Options"
+msgstr "Параметры импорта"
+
+msgid "Scale"
+msgstr "Размер"
+
+msgid "Group by Material"
+msgstr "Группировка по материалу"
+
+msgid "Smooth Normals"
+msgstr "Смягчить нормали"
+
+msgid "About Thea Render"
+msgstr "Про Тея"
+
+msgid "Thea Render - Unique biased and unbiased photorealism"
+msgstr "Тея визуализатор - Уникальный фотореализм"
+
+msgid "Core Development:"
+msgstr "Основные разработки:"
+
+msgid "Creative Direction:"
+msgstr "Творческий директор:"
+
+msgid "Lead Testing:"
+msgstr "Ведущий испытатель:"
+
+msgid "Video Tutorials:"
+msgstr "Видео уроки:"
+
+msgid "Logo Design:"
+msgstr "Дизайн логотипа:"
+
+msgid "Splash Design:"
+msgstr ""
+
+msgid "3dsMax Plugin:"
+msgstr "3dsMax Плагин:"
+
+msgid "Blender Plugin:"
+msgstr "Blender Плагин:"
+
+msgid "Cinema4D Plugin:"
+msgstr "Cinema4D Плагин:"
+
+msgid "Modo Plugin:"
+msgstr "Modo Плагин:"
+
+msgid "Rhino Plugin:"
+msgstr "Rhino Плагин:"
+
+msgid "SketchUp Plugin:"
+msgstr "SketchUp Плагин:"
+
+msgid "SoftImage Plugin:"
+msgstr "SoftImage Плагин:"
+
+msgid "*Additional Contributors: "
+msgstr "*Остальные:"
+
+msgid ""
+"Using These Libraries: wxWidgets, FreeImage, ZLib, LibZip, Lib3ds. See "
+"console log for more information."
+msgstr ""
+"Использование библиотек: wxWidgets, FreeImage, ZLib, LibZip, Lib3ds. "
+"Смотрите журнал консоли для получения дополнительной информации."
+
+msgid ""
+"Copyright Notice: 3dsMax is copyright Autodesk, Blender is copyright Blender "
+"Foundation, Cinema4D is copyright Maxon, Modo is copyright Luxology, Rhino "
+"is copyright McNeel and Associates, SketchUp is copyright Google, SoftImage "
+"is copyright Autodesk."
+msgstr ""
+
+msgid "Visit Site"
+msgstr "Посетите сайт"
+
+msgid "Visit Forum"
+msgstr "Посетите форум"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Theme Selection"
+msgstr "Выбор темы"
+
+msgid "Please select your preferred theme."
+msgstr "Выберите, пожалуйста тему."
+
+msgid "Viewport Theme"
+msgstr "Тема предпросмотра"
+
+msgid "Viewport Controls"
+msgstr "Настройки предпросмотра"
+
+msgid "Interface Theme"
+msgstr "Интерфейс темы"
+
+msgid "Interface Colors"
+msgstr "Цвет интерфейса"
+
+msgid "Cancel"
+msgstr "Отменить"
+
+msgid "Select Resolutions"
+msgstr "Выберите разришение"
+
+msgid "Please enter your preferred render resolutions, one in each line."
+msgstr "Пожалуйста, выбирите разришение визуализации, в каждой строке."
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Draw Bounding Box for Surface Instances"
+msgstr ""
+
+msgid "Draw Bounding Box for Model Instances"
+msgstr ""
+
+msgid "Max Texture Resolution"
+msgstr ""
+
+msgid "Unlimited"
+msgstr ""
+
+msgid "Use ray tracing for picking Viewport objects"
+msgstr ""
+
+msgid "Time out (ms) for reverting from interactive render to OpenGL drawing"
+msgstr ""
+
+msgid "Minimum fill threshold (%) to show interactive render"
+msgstr ""
+
+msgid "Maximum block pixels when downsampling interactive render"
+msgstr ""
+
+msgid "Remove supersampling when saving Colimo project"
+msgstr ""
+
+msgid "Copy used textures when saving Colimo project"
+msgstr ""
+
+msgid "Auto refresh image while rendering"
+msgstr ""
+
+msgid "Auto save image while rendering"
+msgstr ""
+
+msgid "License Input Form"
+msgstr ""
+
+msgid ""
+"This product is successfully activated and registered with the following "
+"data."
+msgstr ""
+
+msgid ""
+"Your serial information appears to be valid, but you need to activate your "
+"license."
+msgstr ""
+
+msgid ""
+"Please enter all the following data using ascii characters. These data will "
+"be kept private and used only for contacting you about licensing. Make sure "
+"that your e-mail is correct and operational as it will be used to send you "
+"any activation codes."
+msgstr ""
+
+msgid "Full Name"
+msgstr "Полное имя"
+
+msgid "E-mail Address"
+msgstr "E-mail адресс"
+
+msgid "Serial Number"
+msgstr "Серийный номер"
+
+msgid "Activation Code"
+msgstr "Код активации"
+
+msgid "Request Activation Code"
+msgstr "Запрос кода активации"
+
+msgid ""
+"Please enter any additional plugin serial numbers you have purchased. You "
+"can add these serial numbers at a later time as well."
+msgstr ""
+
+msgid "Plugin"
+msgstr "Плагин"
+
+msgid "Import License"
+msgstr "Импортировать лицензию"
+
+msgid ""
+"Imports a license file that was sent to you during registration or has been "
+"created by a previous export process. It is possible to import twice (or "
+"more) if your network status changes."
+msgstr ""
+
+msgid "Export License"
+msgstr "Экспортировать лицензию"
+
+msgid ""
+"Exports the license file to be used for archiving purposes or re-"
+"installation of the application. The file can also be used for manual "
+"request of activation code (send to license@thearender.com)."
+msgstr ""
+
+msgid "Clear License"
+msgstr "Очистить лицензию"
+
+msgid ""
+"Removes the current license so that activation can start from scratch. "
+"Please use this only if you want to change serial number of the application "
+"or upgrade a client to studio license."
+msgstr ""
+
+msgid "Export Key"
+msgstr "Экспортировать ключ"
+
+msgid ""
+"Exports a file which contains the full activation key; the key can be used "
+"to activate the license from another computer with access to website (www."
+"thearender.com)."
+msgstr ""
+
+msgid "Main"
+msgstr "Главные"
+
+msgid "Plugins"
+msgstr "Плагины"
+
+msgid "Misc"
+msgstr "Разное"
+
+msgid ""
+"Failed to connect to web server. Please check your network settings or try "
+"again later. If this problem continues, you can export a license file (from "
+"Misc panel) and send it to <license@thearender.com> requesting the "
+"activation code."
+msgstr ""
+
+msgid ""
+"Would you like to test your e-mail address before sending the activation "
+"code? (It is recommended to test it to ensure that your e-mail is valid and "
+"operational.)"
+msgstr ""
+
+msgid "Test E-mail Address?"
+msgstr ""
+
+msgid ""
+"An e-mail has been sent to your address. When you receive it, press OK to go "
+"on and send you the activation code.\n"
+"If you don't receive it soon, please Cancel this step and check your e-mail "
+"address for any errors."
+msgstr ""
+
+msgid "E-mail Sent"
+msgstr ""
+
+msgid "Connection Error"
+msgstr ""
+
+msgid ""
+"There was an error requesting the activation code with the following reason."
+msgstr ""
+
+msgid "Please make sure that you have typed all your data correctly."
+msgstr ""
+
+msgid "Data Error"
+msgstr ""
+
+msgid ""
+"An e-mail has been sent to your address. Please enter the activation code "
+"exactly as it is written in the e-mail."
+msgstr ""
+
+msgid ""
+"Thank you for purchasing Thea Render. Please restart the application for the "
+"activation to take effect."
+msgstr ""
+
+msgid "Congratulations"
+msgstr ""
+
+msgid "Open File"
+msgstr "Открыть файл"
+
+msgid "Thea License Files"
+msgstr "Лецензионный файл Тея"
+
+msgid ""
+"You have successfully activated Thea Render. Please restart the application "
+"for the license to take effect."
+msgstr ""
+
+msgid ""
+"The license file contains a valid serial number but you will need to re-"
+"activate the application."
+msgstr ""
+
+msgid "Re-activation Needed"
+msgstr ""
+
+msgid "The license file does not contain a valid serial number."
+msgstr ""
+
+msgid "Invalid File"
+msgstr "Неверный файл"
+
+msgid "Save File"
+msgstr "Сохранить файл"
+
+msgid "File: "
+msgstr "Файл:"
+
+msgid "Are you sure you want to remove current license?"
+msgstr ""
+
+msgid "Clear License?"
+msgstr ""
+
+msgid "Thea Key Files"
+msgstr ""
+
+msgid ""
+"Your name does not appear to be valid. Make sure it has at least 5 "
+"characters and written in Latin."
+msgstr ""
+
+msgid "Name Input Error"
+msgstr ""
+
+msgid ""
+"Your e-mail does not appear to be valid. Make sure it has at least 5 "
+"characters and written in Latin."
+msgstr ""
+
+msgid "Email Input Error"
+msgstr ""
+
+msgid "Your serial number does not appear to be valid."
+msgstr ""
+
+msgid "Serial Number Input Error"
+msgstr ""
+
+msgid "Searching for Servers"
+msgstr ""
+
+msgid ""
+"The list below is constantly checking for Thea Render server beacons in your "
+"LAN.\n"
+"Please, start the beacon in remote machine using Help > Server Beacon.\n"
+"As soon as your server appears below, you can make a selection."
+msgstr ""
+
+msgid "Address"
+msgstr "Адресс"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Platform"
+msgstr "Платформа"
+
+msgid "Revision"
+msgstr "Версия"
+
+msgid "Failed to create listening process."
+msgstr ""
+
+msgid "Stopped"
+msgstr "Остановленный"
+
+msgid "Ok"
+msgstr "Ок"
+
+msgid "Client Configuration"
+msgstr "Настройка клиента"
+
+msgid "Auto (All)"
+msgstr ""
+
+msgid "Auto (Restricted)"
+msgstr ""
+
+msgid "Manual"
+msgstr "Руководство"
+
+msgid "Server Scan"
+msgstr "Поиск сервера"
+
+msgid "Server Address"
+msgstr "Адресс сервера"
+
+msgid "Range"
+msgstr "Диапазон"
+
+msgid "Server Port"
+msgstr "Порт сервера"
+
+msgid "Override Threads"
+msgstr ""
+
+msgid "Upload Period (min)"
+msgstr ""
+
+msgid "Start Render"
+msgstr "Визиалузировать"
+
+msgid "Resolution"
+msgstr "Разрешение"
+
+msgid "Render Region"
+msgstr "Область визуализации "
+
+msgid "Override Settings"
+msgstr ""
+
+msgid "Override Network"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Server"
+msgstr "Сервер"
+
+msgid "Don't ask again"
+msgstr "Больше не спрашивать"
+
+msgid "(Use default language)"
+msgstr "(Используется язык по умолчанию)"
+
+msgid "Please select your preferred language."
+msgstr "Пожалуйста, выберите нужный язык."
+
+msgid "Language Selection"
+msgstr "Выбор языка"
+
+msgid "Menu"
+msgstr "Меню"
+
+msgid "Matlab"
+msgstr "Лаборатория материалов"
+
+msgid "Texlab"
+msgstr ""
+
+msgid "Matlab2"
+msgstr "Лаборатория материалов 2"
+
+msgid "Textures"
+msgstr "Текстуры"
+
+msgid "Browser"
+msgstr "Браузер"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Start"
+msgstr "Старт"
+
+msgid "Stop"
+msgstr "Стоп"
+
+msgid "Configure"
+msgstr "Настроить"
+
+msgid "License"
+msgstr "Лицензия"
+
+msgid "Instancing"
+msgstr ""
+
+msgid "Installing Data (First Run Only)"
+msgstr ""
+
+msgid "Thea Darkroom"
+msgstr "Тея темная комната"
+
+msgid "Thea Material Lab"
+msgstr ""
+
+msgid "Thea Client"
+msgstr "Тея клиент"
+
+msgid "Thea Studio"
+msgstr "Тея студия"
+
+msgid "[Demo Version]"
+msgstr ""
+
+msgid "[Volume License]"
+msgstr ""
+
+msgid "[Academic License]"
+msgstr ""
+
+msgid "[Academic Lab License]"
+msgstr ""
+
+msgid "Rendering is in progress. Are you sure you want to quit?"
+msgstr ""
+
+msgid "Abort Render?"
+msgstr "Отменить визуализацию"
+
+msgid "Are you sure you want to quit?"
+msgstr "Вы уверены, что хотите выйти?"
+
+msgid "Quit Thea Render?"
+msgstr "Выйти из программы?"
+
+msgid ""
+"Thea Render is now installed and ready to run.\n"
+"Data Folder set to: "
+msgstr ""
+
+msgid "Installation Finished"
+msgstr ""
+
+msgid "Error on Farm Key"
+msgstr ""
+
+msgid "Error on User Key"
+msgstr ""
+
+msgid "Reason: Wrong format of user identification"
+msgstr ""
+
+msgid "Reason: Wrong format of serial number"
+msgstr ""
+
+msgid "Reason: Wrong format of e-mail address"
+msgstr ""
+
+msgid "Reason: Registration info is not available"
+msgstr ""
+
+msgid "Reason: Product code mismatch"
+msgstr ""
+
+msgid "Reason: E-mail address mismatch"
+msgstr ""
+
+msgid "Reason: Full name mismatch"
+msgstr ""
+
+msgid "Could not establish connection with server."
+msgstr ""
+
+msgid "Signal could not be sent or was not accepted."
+msgstr ""
+
+msgid "Add to Favorites"
+msgstr ""
+
+msgid "Remove from Favorites"
+msgstr ""
+
+msgid "Favorites"
+msgstr ""
+
+msgid "Examples"
+msgstr "Примеры"
+
+msgid "Simulation"
+msgstr "Симуляция"
+
+msgid "&New..."
+msgstr "&Новый..."
+
+msgid "&Open..."
+msgstr "&Открыть..."
+
+msgid "&Merge..."
+msgstr "&Объединить..."
+
+msgid "&Revert..."
+msgstr "&Вернуть..."
+
+msgid "&Save"
+msgstr "&Сохранить"
+
+msgid "Save &As..."
+msgstr "Сохранить &как..."
+
+msgid "Scenes"
+msgstr "Сцена"
+
+msgid "&Exit"
+msgstr "&Выход"
+
+msgid "&Refresh Theme"
+msgstr "&И Обновить тему"
+
+msgid "&Save Current Settings..."
+msgstr "&Сохранить текущие настройки..."
+
+msgid "&Save Current Display..."
+msgstr "&Сохранить текущий вид..."
+
+msgid "Pr&esets"
+msgstr ""
+
+msgid "&Displays"
+msgstr ""
+
+msgid "&Start..."
+msgstr "&Старт..."
+
+msgid "&Resume"
+msgstr "&Продолжить"
+
+msgid "&Pause"
+msgstr "&Пауза"
+
+msgid "S&top"
+msgstr ""
+
+msgid "&Scene"
+msgstr "&Сцена"
+
+msgid "Se&ttings"
+msgstr ""
+
+msgid "&More Settings"
+msgstr "&Больше настроек"
+
+msgid "&Browser"
+msgstr "&Браузер"
+
+msgid "&Materials"
+msgstr "&Материалы"
+
+msgid "&Textures"
+msgstr "&Текстуры"
+
+msgid "&Save Current Layout..."
+msgstr ""
+
+msgid "&Layouts"
+msgstr ""
+
+msgid "&Theme..."
+msgstr "&Темы..."
+
+msgid "&Language..."
+msgstr "&Язык..."
+
+msgid "&Resolutions..."
+msgstr "&Resolutions..."
+
+msgid "&Preferences..."
+msgstr "&Настройки..."
+
+msgid "&About Thea..."
+msgstr "&Про программу..."
+
+msgid "&User Manual (pdf)"
+msgstr ""
+
+msgid "&License Agreement (rtf)"
+msgstr ""
+
+msgid "&Data Folder"
+msgstr ""
+
+msgid "&Server Beacon"
+msgstr ""
+
+msgid "&License Form..."
+msgstr ""
+
+msgid "&Material Diagnostics"
+msgstr ""
+
+msgid "&Scene Benchmark"
+msgstr ""
+
+msgid "&File"
+msgstr "Файл"
+
+msgid "&Edit"
+msgstr "Редактировать"
+
+msgid "&View"
+msgstr "Просмотр"
+
+msgid "&Insert"
+msgstr "Вставить"
+
+msgid "&Render"
+msgstr "Визуализировать"
+
+msgid "&Customize"
+msgstr "Настроить"
+
+msgid "&Window"
+msgstr "Окно"
+
+msgid "&Help"
+msgstr "Помощь"
+
+msgid "Omni"
+msgstr ""
+
+msgid "Spot"
+msgstr ""
+
+msgid "IES"
+msgstr ""
+
+msgid "Projector"
+msgstr ""
+
+msgid "sun"
+msgstr "Солнце"
+
+msgid "You must restart Thea Render for the Language change to take effect."
+msgstr ""
+
+msgid "Language Changed"
+msgstr ""
+
+msgid "You must restart Thea Render for the Theme changes to take effect."
+msgstr ""
+
+msgid "Theme Changed"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Viewport"
+msgstr "Предпросмотр"
+
+msgid "Darkroom"
+msgstr "Темная комната"
+
+msgid "Console"
+msgstr "Консоль"
+
+msgid "Workspace"
+msgstr ""
+
+msgid "Tree View"
+msgstr "Каталог"
+
+msgid "Properties"
+msgstr "Свойства"
+
+msgid "Material Preview"
+msgstr ""
+
+msgid "Material Preview 2"
+msgstr ""
+
+msgid "Material Lab"
+msgstr "Материалы"
+
+msgid "Texture Lab"
+msgstr ""
+
+msgid "Material Lab 2"
+msgstr ""
+
+msgid "Environment"
+msgstr "Окружение"
+
+msgid "Render"
+msgstr "Рендер"
+
+msgid "Tools"
+msgstr "Инструменты"
+
+msgid "Settings"
+msgstr "Настройки"
+
+msgid "More Settings"
+msgstr "Больше настроек"
+
+msgid "Building Model Previews"
+msgstr ""
+
+msgid "Building"
+msgstr ""
+
+msgid "Building Material Previews"
+msgstr ""
+
+msgid ""
+"Please check that the files have proper supported extension and are not "
+"empty."
+msgstr ""
+
+msgid "Failed Loading Files"
+msgstr ""
+
+msgid "Please verify that the preview files can be overwritten."
+msgstr ""
+
+msgid "Failed Saving Previews"
+msgstr ""
+
+msgid "Merge File"
+msgstr ""
+
+msgid "All Input Files"
+msgstr ""
+
+msgid "Thea Scene Files"
+msgstr ""
+
+msgid "Thea Library Files"
+msgstr ""
+
+msgid "Thea Script Files"
+msgstr ""
+
+msgid "Thea Image Files"
+msgstr ""
+
+msgid "Kerkythea Files"
+msgstr ""
+
+msgid "3D Files"
+msgstr ""
+
+msgid "Backup Files"
+msgstr ""
+
+msgid "The backup will be used to swap and read from the following file:\n"
+msgstr ""
+
+msgid "Recover Backup"
+msgstr ""
+
+msgid ""
+"This will make a complete clean up. Please, make sure that you have saved "
+"all your data.\n"
+msgstr ""
+
+msgid "New Scene"
+msgstr ""
+
+msgid "This will revert to your last saved scene, any changes will be lost!\n"
+msgstr ""
+
+msgid "Revert Scene"
+msgstr ""
+
+msgid ""
+"A newer version of the library is already installed. Do you want to proceed "
+"overwriting with this older version?"
+msgstr ""
+
+msgid "Install Older Version?"
+msgstr ""
+
+msgid "Select Library Data Folder"
+msgstr ""
+
+msgid "Merging"
+msgstr ""
+
+msgid "Opening"
+msgstr ""
+
+msgid "Thea XML Files"
+msgstr ""
+
+msgid "Thea Zip-XML Files"
+msgstr ""
+
+msgid "Thea Pack Files"
+msgstr ""
+
+msgid "Saving"
+msgstr ""
+
+msgid "It is recommended to use default scene format during your work.\n"
+msgstr ""
+
+msgid "Yes: Write to recommended binary format:\n"
+msgstr ""
+
+msgid "No: Keep the currently used format:\n"
+msgstr ""
+
+msgid "Write"
+msgstr ""
+
+msgid "The following file is going to be overwritten:\n"
+msgstr ""
+
+msgid "Overwrite"
+msgstr ""
+
+msgid ""
+"Some render channels are already selected.\n"
+"Would you like to keep them?"
+msgstr ""
+
+msgid "Keep Channels?"
+msgstr ""
+
+msgid "Please enter display name."
+msgstr ""
+
+msgid "Display Name"
+msgstr ""
+
+msgid ""
+"Some regions of interest are already selected.\n"
+"Would you like to keep them?"
+msgstr ""
+
+msgid "Keep ROIs?"
+msgstr ""
+
+msgid ""
+"Some frames are already setup in relight configuration.\n"
+"Would you like to keep it?"
+msgstr ""
+
+msgid "Keep Relight?"
+msgstr ""
+
+msgid "Please enter layout name."
+msgstr ""
+
+msgid "Layout Name"
+msgstr ""
+
+msgid "Run Script"
+msgstr ""
+
+msgid "Script Files"
+msgstr ""
+
+msgid "Inspecting"
+msgstr ""
+
+msgid ""
+"Some errors have appeared during script inspection - please check console "
+"log.\n"
+msgstr ""
+
+msgid "Script Parsing Error"
+msgstr ""
+
+msgid "Executing"
+msgstr ""
+
+msgid "Inspecting Command Line"
+msgstr ""
+
+msgid ""
+"Some errors have appeared during command line inspection - please check "
+"console log."
+msgstr ""
+
+msgid "Command Line Parsing Error"
+msgstr ""
+
+msgid "Executing Command Line"
+msgstr ""
+
+msgid "Save Image"
+msgstr "Сохранить изображение"
+
+msgid "PNG Image Files"
+msgstr "PNG файлы изображений"
+
+msgid "JPG Image Files"
+msgstr "JPG файлы изображений"
+
+msgid "HDR Image Files"
+msgstr "HDR файлы изображений"
+
+msgid "EXR Image Files"
+msgstr "EXR файлы изображений"
+
+msgid "TIF Image Files"
+msgstr "TIF файлы изображений"
+
+msgid "GIF Image Files"
+msgstr "GIF файлы изображений"
+
+msgid "TGA Image Files"
+msgstr "TGA файлы изображений"
+
+msgid "BMP Image Files"
+msgstr "BMP файлы изображений"
+
+msgid "PNG Image+Alpha Files"
+msgstr "PNG изображение + альфа файлы"
+
+msgid "Preparing Project File"
+msgstr "Подготовка файла проекта"
+
+msgid "Server Beacon"
+msgstr "Хост сервера"
+
+msgid "Broadcasting server information."
+msgstr "Вещание информации о сервере."
+
+msgid "Press OK to continue rendering!"
+msgstr "Нажмите кнопку ОК, чтобы продолжить визуализацию!"
+
+msgid "Render Pause"
+msgstr "Пауза"
+
+msgid ""
+"Some errors have appeared during rendering.\n"
+"Please save scene, pack with textures and e-mail to:\n"
+"dev@thearender.com\n"
+msgstr ""
+
+msgid "There was an error saving file: "
+msgstr ""
+
+msgid "Save Error"
+msgstr "Сохранить ошибку"
+
+msgid "Saving Scene"
+msgstr "Сохранить сцену"
+
+msgid "Packing Scene"
+msgstr "Запаковать сцену"
+
+msgid "Script execution failed at line"
+msgstr ""
+
+msgid "Script Error"
+msgstr "Ошибка сценария"
+
+msgid "Receiving Project File"
+msgstr "Получение файла проекта"
+
+msgid "Project found on server "
+msgstr "Проект найден на сервере"
+
+msgid ""
+"It seems that there are no light sources in the scene. Would you like to add "
+"a head light?"
+msgstr ""
+
+msgid "Add Headlight"
+msgstr ""
+
+msgid "Rename File"
+msgstr "Переименовать файл"
+
+msgid "Toggle Filenames"
+msgstr ""
+
+msgid "Toggle Icon Size"
+msgstr ""
+
+msgid "Up"
+msgstr "Вверх"
+
+msgid "Refresh"
+msgstr "Обнов"
+
+msgid "Apply"
+msgstr "Применить"
+
+msgid "Rename..."
+msgstr "Переименовать"
+
+msgid "Build Preview"
+msgstr "Построить предпросмотр"
+
+msgid "Build All Previews"
+msgstr "Построить все предпросмотры"
+
+msgid "Automation"
+msgstr ""
+
+msgid "Select All"
+msgstr "Выбрать все"
+
+msgid "Unselect All"
+msgstr "Очистить все"
+
+msgid "Import..."
+msgstr "Импорт"
+
+msgid "Export..."
+msgstr "Экспорт"
+
+msgid "New Folder..."
+msgstr "Новая папка..."
+
+msgid "Save Sky..."
+msgstr "Сохранить небо..."
+
+msgid "Do you really want to rebuild the previews for the selected files?"
+msgstr ""
+
+msgid "Build Previews?"
+msgstr ""
+
+msgid ""
+"Do you really want to rebuild the previews for all files and folders "
+"(recursively)?"
+msgstr ""
+
+msgid "Build All Previews?"
+msgstr ""
+
+msgid "Import Library"
+msgstr ""
+
+msgid "Thea Package Files"
+msgstr ""
+
+msgid "Thea Material Package Files"
+msgstr ""
+
+msgid "Thea Texture Package Files"
+msgstr ""
+
+msgid "Thea Model Package Files"
+msgstr ""
+
+msgid "There was an error during importing library package."
+msgstr ""
+
+msgid "Thea Scene Package Files"
+msgstr ""
+
+msgid "Thea Sky Package Files"
+msgstr ""
+
+msgid "Export Library"
+msgstr "Экспорт библиотеки"
+
+msgid "There was an error during exporting library package."
+msgstr ""
+
+msgid "Do you really want to delete the selected files?"
+msgstr "Вы действительно хотите удалить выбранные файлы?"
+
+msgid "Delete Files?"
+msgstr "Удалить файлы?"
+
+msgid "Please enter folder name."
+msgstr "Пожалуйста, введите имя папки."
+
+msgid "Folder Name?"
+msgstr "Название папки?"
+
+msgid ""
+"There was an error during folder creation (perhaps folder already exists)."
+msgstr ""
+
+msgid ""
+"Please enter name for the environmental lighting (sky and image-based "
+"lighting)."
+msgstr ""
+
+msgid "Save Sky"
+msgstr "Сохранить небо"
+
+msgid "Select Folder"
+msgstr "Выбрать папку"
+
+msgid "Failed to save the following file:"
+msgstr ""
+
+msgid "Make sure that the name does not contain any invalid characters:"
+msgstr ""
+
+msgid "Error in Saving File"
+msgstr ""
+
+msgid "Contribution"
+msgstr ""
+
+msgid "Commits"
+msgstr "Части"
+
+msgid "Last Commit"
+msgstr "Время"
+
+msgid "Subscription"
+msgstr "Подпись"
+
+msgid "Threads"
+msgstr "Потоки"
+
+msgid "?"
+msgstr "?"
+
+msgid "localhost"
+msgstr "Локальный"
+
+msgid "Toggle Names"
+msgstr ""
+
+msgid "Perceptual Level..."
+msgstr ""
+
+msgid "Min Blurred Subdivs..."
+msgstr ""
+
+msgid "Max Blurred Subdivs..."
+msgstr ""
+
+msgid "Tracing Depth..."
+msgstr ""
+
+msgid "Emitter Min Rays..."
+msgstr ""
+
+msgid "Emitter Max Rays..."
+msgstr ""
+
+msgid "New Material"
+msgstr "Новый материал"
+
+msgid "Rename Material"
+msgstr "Переименовать материал"
+
+msgid "Please enter perceptual level (%) for selected materials."
+msgstr ""
+
+msgid "Level Input"
+msgstr ""
+
+msgid ""
+"This will reset min and max blurred subdivs of the selected materials to "
+"Default value."
+msgstr ""
+
+msgid "Default Blurred Subdivs"
+msgstr ""
+
+msgid ""
+"Please enter min blurred subdivs for selected materials (-1 corresponds to "
+"default)."
+msgstr ""
+
+msgid "Min Subdivs Input"
+msgstr ""
+
+msgid ""
+"Please enter max blurred subdivs for selected materials (-1 corresponds to "
+"default)."
+msgstr ""
+
+msgid "Max Subdivs Input"
+msgstr ""
+
+msgid ""
+"Please enter tracing depth for selected materials (-1 corresponds to "
+"default)."
+msgstr ""
+
+msgid "Depth Input"
+msgstr ""
+
+msgid "Please enter min emitter rays for selected materials."
+msgstr ""
+
+msgid "Min Rays Input"
+msgstr ""
+
+msgid "Please enter max emitter rays for selected materials."
+msgstr ""
+
+msgid "Max Rays Input"
+msgstr ""
+
+msgid "Browse..."
+msgstr ""
+
+msgid "Max"
+msgstr "Максимально"
+
+msgid "General"
+msgstr "Основные"
+
+msgid "Biased RT"
+msgstr ""
+
+msgid "Biased GI"
+msgstr ""
+
+msgid "Animation"
+msgstr "Анимация"
+
+msgid "Load Global Map"
+msgstr "Загрузить глобальную карту"
+
+msgid "Save Global Map"
+msgstr "Сохранить глобальную карту"
+
+msgid "Lock Global Map"
+msgstr "Заблокируйть глобальную карту"
+
+msgid "Load Caustic Map"
+msgstr "Загрузить каустическую карту"
+
+msgid "Save Caustic Map"
+msgstr "Сохранить каустическую карту"
+
+msgid "Lock Caustic Map"
+msgstr "Заблокируйть каустическую карту"
+
+msgid "Load Cache"
+msgstr "Загрузить кеш"
+
+msgid "Save Cache"
+msgstr "Сохранить кеш"
+
+msgid "Lock Cache"
+msgstr "Заблокировать кеш"
+
+msgid "Thea Global Photon Map Files"
+msgstr ""
+
+msgid "Failed loading global photon map file.\n"
+msgstr ""
+
+msgid "Failed saving global photon map.\n"
+msgstr ""
+
+msgid "Unlock Global Map"
+msgstr ""
+
+msgid "Thea Caustic Photon Map Files"
+msgstr ""
+
+msgid "Failed loading caustic photon map file.\n"
+msgstr ""
+
+msgid "Failed saving caustic photon map.\n"
+msgstr ""
+
+msgid "Unlock Caustic Map"
+msgstr ""
+
+msgid "Thea Irradiance Cache Files"
+msgstr ""
+
+msgid "Failed loading irradiance cache file.\n"
+msgstr ""
+
+msgid "Failed saving irradiance cache file.\n"
+msgstr ""
+
+msgid "Unlock Cache"
+msgstr ""
+
+msgid "Emitter Accuracy"
+msgstr ""
+
+msgid "Emitter Min Rays"
+msgstr ""
+
+msgid "Emitter Max Rays"
+msgstr ""
+
+msgid "Room Selection"
+msgstr ""
+
+msgid "Room Options"
+msgstr "Опции комнаты"
+
+msgid "Quality"
+msgstr "Качество"
+
+msgid "Editor Options"
+msgstr "Параметры редактора"
+
+msgid "High Resolution"
+msgstr "Высокое разрешение"
+
+msgid "Auto Refresh"
+msgstr "Автоматическое обновление"
+
+msgid "Auto Clipping"
+msgstr "Автоматическое отбрасывание"
+
+msgid "Glossy"
+msgstr "Глянец"
+
+msgid "Coating"
+msgstr "Покрытие"
+
+msgid "Basic"
+msgstr "Базовый"
+
+msgid "SSS"
+msgstr ""
+
+msgid "Thin Film"
+msgstr ""
+
+msgid "Rest Layers"
+msgstr "Очистить слои"
+
+msgid "All Coatings"
+msgstr "Все покрытия"
+
+msgid "All Substrates"
+msgstr ""
+
+msgid "All Layers"
+msgstr "Все слои"
+
+msgid "Copy Special"
+msgstr ""
+
+msgid "Toggle List View"
+msgstr ""
+
+msgid ""
+"Reset material (tip: press Ctrl+Clear to create a new material in the scene)."
+msgstr ""
+
+msgid "Undo all changes."
+msgstr "Отменить все изменения."
+
+msgid "Import material from disk."
+msgstr ""
+
+msgid "Save material on disk."
+msgstr ""
+
+msgid "Save"
+msgstr "Сохр"
+
+msgid "Setup material preview render."
+msgstr ""
+
+msgid "Options"
+msgstr "Опции"
+
+msgid "Select material preview scene."
+msgstr ""
+
+msgid "Room"
+msgstr "Комн"
+
+msgid "Render material preview."
+msgstr ""
+
+msgid "Stop material preview render."
+msgstr ""
+
+msgid "Layers"
+msgstr "Слои"
+
+msgid "Show general properties panel."
+msgstr ""
+
+msgid "Show clip mapping panel."
+msgstr ""
+
+msgid "Clipping"
+msgstr ""
+
+msgid "Show displacement mapping panel."
+msgstr ""
+
+msgid "Displace"
+msgstr ""
+
+msgid "Show emittance properties panel."
+msgstr ""
+
+msgid "Emitter"
+msgstr "Излучение"
+
+msgid "Show participating medium panel."
+msgstr ""
+
+msgid "Medium"
+msgstr "Средний"
+
+msgid "Delete current layer."
+msgstr ""
+
+msgid "Move current layer up."
+msgstr ""
+
+msgid "Move current layer down."
+msgstr ""
+
+msgid "Move"
+msgstr "Двигать"
+
+msgid "Show layer/mixing properties panel."
+msgstr ""
+
+msgid "Show scattering properties panel."
+msgstr ""
+
+msgid "Scatter"
+msgstr "Рассеить"
+
+msgid "Show structure properties panel."
+msgstr ""
+
+msgid "Struct"
+msgstr "Cтруктура"
+
+msgid "Add basic substrate layer."
+msgstr ""
+
+msgid "Add glossy substrate layer."
+msgstr ""
+
+msgid "Add subsurface scattering layer."
+msgstr ""
+
+msgid "Add thin film substrate layer."
+msgstr ""
+
+msgid "ThinFilm"
+msgstr ""
+
+msgid "Add coating layer."
+msgstr ""
+
+msgid "Open Material"
+msgstr ""
+
+msgid "Thea Material Files"
+msgstr ""
+
+msgid "Save Material"
+msgstr ""
+
+msgid "Show Procedurals"
+msgstr ""
+
+msgid "Show Bitmaps"
+msgstr ""
+
+msgid "Clean Up Bitmaps"
+msgstr ""
+
+msgid "Pro"
+msgstr ""
+
+msgid "Procedurals"
+msgstr ""
+
+msgid "Bit"
+msgstr ""
+
+msgid "Bitmaps"
+msgstr ""
+
+msgid "Bitmap Info..."
+msgstr ""
+
+msgid "Relocate..."
+msgstr ""
+
+msgid "Reload"
+msgstr ""
+
+msgid "Missing Bitmaps..."
+msgstr ""
+
+msgid "Original Source: "
+msgstr ""
+
+msgid "Resolution: "
+msgstr ""
+
+msgid "Bitmap Info"
+msgstr ""
+
+msgid "Merge Options"
+msgstr ""
+
+msgid "Keep Current - Throw Away New"
+msgstr ""
+
+msgid "Replace With New - Throw Away Current"
+msgstr ""
+
+msgid "Merge - Add New To Current"
+msgstr "Слияние - Добавить новую для данной"
+
+msgid "Merge - Name Collision: Keep"
+msgstr ""
+
+msgid "Merge - Name Collision: Replace"
+msgstr ""
+
+msgid "Merge - Name Collision: Replace Mesh"
+msgstr ""
+
+msgid "Merge - Name Collision: Replace Material"
+msgstr ""
+
+msgid "Lights"
+msgstr "Свет"
+
+msgid "Merge - Name Collision: Replace Position"
+msgstr ""
+
+msgid "Merge - Name Collision: Replace Emitter"
+msgstr ""
+
+msgid "Merge - Name Collision: Replace Lens"
+msgstr ""
+
+msgid "Render Settings"
+msgstr "Настройки визуализации"
+
+msgid "Proceed"
+msgstr "Продолжить"
+
+msgid "&Choose Folder..."
+msgstr "&Выбирите папку"
+
+msgid "/Materials"
+msgstr "/Материалы"
+
+msgid "/Materials/Diffuse"
+msgstr ""
+
+msgid "/Materials/Emitters"
+msgstr ""
+
+msgid "/Materials/Metals"
+msgstr ""
+
+msgid "/Materials/Transparent"
+msgstr ""
+
+msgid "/Materials/Wood"
+msgstr ""
+
+msgid "/Textures"
+msgstr "/Текстуры"
+
+msgid "/Models"
+msgstr "/Модели"
+
+msgid "/Models/Primitives"
+msgstr "/Модели/Примитивы"
+
+msgid "/Skies"
+msgstr "/Небо"
+
+msgid "/ies"
+msgstr ""
+
+msgid "Sky"
+msgstr "Небо"
+
+msgid "IBL"
+msgstr ""
+
+msgid "Toggle Automatic Addition"
+msgstr "Автоматическое добавление"
+
+msgid "Toggle Start/End Position for New Images"
+msgstr "Начало/Конец позиции для нового изображения"
+
+msgid "Add New Buffer"
+msgstr "Добавить новый буфер"
+
+msgid "Compare"
+msgstr ""
+
+msgid "Shows Available/Max Slots"
+msgstr ""
+
+msgid "Empty Slot"
+msgstr "Пустой слот"
+
+msgid "Please select exactly 2 images to compare."
+msgstr ""
+
+msgid "Image Comparison"
+msgstr ""
+
+msgid "Please select 2-4 images to compare."
+msgstr ""
+
+msgid "Saving high dynamic range during rendering is not possible."
+msgstr ""
+
+msgid "Operation not Supported"
+msgstr "Операция не поддерживается"
+
+msgid "This will delete all slots currently in history. Are you sure?"
+msgstr "Это действие приведет к удалению всех слотов в истории. Вы уверены?"
+
+msgid "Clear History"
+msgstr "Очистить историю"
+
+msgid ""
+"This will overwrite all slots from the temporary disc folder. Are you sure?"
+msgstr ""
+"Это действие перезапишет все слоты из временной папки диска. Вы уверены?"
+
+msgid "Restore History"
+msgstr "Восстаноить историю"
+
+msgid "Quick View"
+msgstr "Быстрый просмотр"
+
+msgid "Save Image..."
+msgstr "Просмотр изображения..."
+
+msgid "Revert Buffer"
+msgstr "Вернуть буфер"
+
+msgid "Clear History..."
+msgstr "Очистить историю..."
+
+msgid "Restore History..."
+msgstr "Восстановить историю..."
+
+msgid "Select Frames"
+msgstr "Выбрать кадры"
+
+msgid "All Frames"
+msgstr "Все кадры"
+
+msgid "Current Selection"
+msgstr "Текущий выбор"
+
+msgid "Selected Frames"
+msgstr "Выбранные кадры"
+
+msgid "Elapsed"
+msgstr ""
+
+msgid "Refresh Image"
+msgstr "Обновить изображение"
+
+msgid "Phase"
+msgstr ""
+
+msgid "Network Status"
+msgstr "Статус сети"
+
+msgid "Render Threads"
+msgstr ""
+
+msgid "Pause"
+msgstr "Пауза"
+
+msgid "Progress"
+msgstr "Прогресс"
+
+msgid "Display"
+msgstr "Отобразить"
+
+msgid "Exposure"
+msgstr ""
+
+msgid "ISO"
+msgstr ""
+
+msgid "Shutter Speed"
+msgstr ""
+
+msgid "f-number"
+msgstr ""
+
+msgid "Gamma"
+msgstr "Гамма"
+
+msgid "Brightness"
+msgstr "Яркость"
+
+msgid "CRF"
+msgstr ""
+
+msgid "Filtering"
+msgstr ""
+
+msgid "Sharpness"
+msgstr ""
+
+msgid "Burn"
+msgstr ""
+
+msgid "Vignetting"
+msgstr ""
+
+msgid "Chroma"
+msgstr ""
+
+msgid "Contrast"
+msgstr "Контраст"
+
+msgid "White Balance"
+msgstr "Баланс белого"
+
+msgid "Radial"
+msgstr ""
+
+msgid "5 Blades"
+msgstr ""
+
+msgid "6 Blades"
+msgstr ""
+
+msgid "8 Blades"
+msgstr ""
+
+msgid "12 Blades"
+msgstr ""
+
+msgid "Glare"
+msgstr ""
+
+msgid "Weight"
+msgstr ""
+
+msgid "Radius"
+msgstr "Радиус"
+
+msgid "Channel"
+msgstr ""
+
+msgid "Color"
+msgstr "Цвет"
+
+msgid "Min Z (m)"
+msgstr ""
+
+msgid "Max Z (m)"
+msgstr ""
+
+msgid "Analysis"
+msgstr ""
+
+msgid "Photometric"
+msgstr ""
+
+msgid "Min Il-Lum"
+msgstr ""
+
+msgid "Max Il-Lum"
+msgstr ""
+
+msgid "Relight"
+msgstr ""
+
+msgid "History"
+msgstr "История"
+
+msgid "Network"
+msgstr "Сеть"
+
+msgid "Really remove all key frames?"
+msgstr ""
+
+msgid "Clear?"
+msgstr "Очистить?"
+
+msgid "Save Frames"
+msgstr "Сохранить кадр"
+
+msgid "Relighting and Saving..."
+msgstr "Повторный запуск и сохранение..."
+
+msgid "Warming Up"
+msgstr ""
+
+msgid "Building Environment"
+msgstr "Построить окружение"
+
+msgid "Initializing Irradiance Estimator"
+msgstr ""
+
+msgid "Initializing Direct Light Estimator"
+msgstr ""
+
+msgid "Initializing SSS Estimator"
+msgstr ""
+
+msgid "Irradiance Precomputation"
+msgstr ""
+
+msgid "Ray Tracing"
+msgstr "Трассировка лучей"
+
+msgid "Subscribing Client"
+msgstr ""
+
+msgid "Shutting Down Server"
+msgstr ""
+
+msgid "Shutting Down Client"
+msgstr ""
+
+msgid "Requesting Next Frame"
+msgstr ""
+
+msgid "Stopping Clients"
+msgstr ""
+
+msgid "Shutting Down"
+msgstr ""
+
+msgid "Final Commit to Server"
+msgstr ""
+
+msgid "Frame"
+msgstr ""
+
+msgid "Thea Photometric Reports"
+msgstr ""
+
+msgid "Colimo Project Files"
+msgstr ""
+
+msgid ""
+"Colimo project file can not be saved during rendering - please stop "
+"rendering first."
+msgstr ""
+
+msgid "Render in Progress"
+msgstr ""
+
+msgid "Would you like to run Motiva Colimo with the saved project?"
+msgstr ""
+
+msgid "Run Colimo?"
+msgstr ""
+
+msgid "Illuminance Analysis"
+msgstr ""
+
+msgid "Luminance Analysis"
+msgstr ""
+
+msgid "Author"
+msgstr ""
+
+msgid "Notes"
+msgstr ""
+
+msgid ""
+"Distributions are presented in % of most frequent value found within user "
+"range."
+msgstr ""
+
+msgid ""
+"Min and max values are shown with circle and rectangle correspondingly in "
+"the false color image."
+msgstr ""
+
+msgid "Click here for the full resolution false color image"
+msgstr ""
+
+msgid "Whole Image"
+msgstr ""
+
+msgid "Avg/Min/Max: "
+msgstr ""
+
+msgid "Region"
+msgstr ""
+
+msgid "&Save Curve..."
+msgstr ""
+
+msgid "Toggle between HSV and RGB color space."
+msgstr ""
+
+msgid "Hue"
+msgstr ""
+
+msgid "Saturation"
+msgstr ""
+
+msgid "Value"
+msgstr ""
+
+msgid "Red"
+msgstr ""
+
+msgid "Green"
+msgstr ""
+
+msgid "Blue"
+msgstr ""
+
+msgid "Coordinates"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Min"
+msgstr ""
+
+msgid "Rotation"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "Rotation (deg)"
+msgstr ""
+
+msgid "Index of Refraction (n)"
+msgstr ""
+
+msgid "Extinction Coefficient (k)"
+msgstr ""
+
+msgid "Efficacy (lm/W)"
+msgstr ""
+
+msgid "IES Files"
+msgstr ""
+
+msgid "Window"
+msgstr ""
+
+msgid "Frames"
+msgstr ""
+
+msgid "Selection"
+msgstr ""
+
+msgid "Th/nails"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Saving interactive render output is disabled for demo version."
+msgstr ""
+
+msgid "Demo Version"
+msgstr ""
+
+msgid "Lock aspect ratio."
+msgstr ""
+
+msgid "Texture Preview"
+msgstr ""
+
+msgid "Width (m)"
+msgstr ""
+
+msgid "Height (m)"
+msgstr ""
+
+msgid "Thea Texture Lab (Sub-Level)"
+msgstr ""
+
+msgid "Thea Texture Lab"
+msgstr ""
+
+msgid "Reset texture."
+msgstr ""
+
+msgid "Import texture from disk."
+msgstr ""
+
+msgid "Save texture on disk."
+msgstr ""
+
+msgid "Setup texture preview render."
+msgstr ""
+
+msgid "Show global coordinates and operations panel."
+msgstr ""
+
+msgid "Global"
+msgstr ""
+
+msgid "Texture Layers"
+msgstr ""
+
+msgid "Setup texture parameters and weighting."
+msgstr ""
+
+msgid "Setup texture offset and scale."
+msgstr ""
+
+msgid "Coord."
+msgstr ""
+
+msgid "Setup texture tone mapping."
+msgstr ""
+
+msgid "Tone"
+msgstr ""
+
+msgid "Remove selected texture."
+msgstr ""
+
+msgid "Assign bitmap to selection."
+msgstr ""
+
+msgid "Bitmap"
+msgstr ""
+
+msgid "Assign color to selection."
+msgstr ""
+
+msgid "Show procedurals panel."
+msgstr ""
+
+msgid "Proced."
+msgstr ""
+
+msgid "Show open bitmaps panel."
+msgstr ""
+
+msgid "Edit selection in sub-window."
+msgstr ""
+
+msgid "Level2"
+msgstr ""
+
+msgid "Relocate Bitmap"
+msgstr ""
+
+msgid "Browse Bitmap"
+msgstr ""
+
+msgid "Bitmap Files"
+msgstr ""
+
+msgid "Open Texture"
+msgstr ""
+
+msgid "Thea Texture Files"
+msgstr ""
+
+msgid "Save Texture"
+msgstr ""
+
+msgid "Please enter color name."
+msgstr ""
+
+msgid "Color Name"
+msgstr ""
+
+msgid "Thea Color Lab"
+msgstr ""
+
+msgid "Tristimulus"
+msgstr ""
+
+msgid "RGB"
+msgstr ""
+
+msgid "HSV"
+msgstr ""
+
+msgid "XYZ"
+msgstr ""
+
+msgid "X"
+msgstr ""
+
+msgid "Y"
+msgstr ""
+
+msgid "Z"
+msgstr ""
+
+msgid "Palette"
+msgstr ""
+
+msgid "New Palette"
+msgstr ""
+
+msgid "Delete Palette"
+msgstr ""
+
+msgid "Undo Changes"
+msgstr ""
+
+msgid "Spectrum"
+msgstr ""
+
+msgid "Blackbody"
+msgstr ""
+
+msgid "Temp. (K)"
+msgstr ""
+
+msgid "Please enter palette name."
+msgstr ""
+
+msgid "Can not create palette without name - please enter palette name."
+msgstr ""
+
+msgid "Palette already exists - please enter another palette name."
+msgstr ""
+
+msgid "Are you sure you want to delete palette?"
+msgstr ""
+
+msgid "Delete Palette?"
+msgstr ""
+
+msgid "Are you sure you want to discard all changes made on palette?"
+msgstr ""
+
+msgid "Undo Changes?"
+msgstr ""
+
+msgid "Rename Model"
+msgstr ""
+
+msgid "Instance"
+msgstr ""
+
+msgid "Canvas"
+msgstr ""
+
+msgid "Perturbations"
+msgstr ""
+
+msgid "Direction"
+msgstr ""
+
+msgid "Normal"
+msgstr ""
+
+msgid "Roll"
+msgstr ""
+
+msgid "Placement"
+msgstr ""
+
+msgid "Minimum Distance (m)"
+msgstr ""
+
+msgid "Front Side"
+msgstr ""
+
+msgid "Snap to Grid"
+msgstr ""
+
+msgid "X Step (m)"
+msgstr ""
+
+msgid "Y Step (m)"
+msgstr ""
+
+msgid "Z Step (m)"
+msgstr ""
+
+msgid "Miscellaneous"
+msgstr ""
+
+msgid "Tool Radius (pixels)"
+msgstr ""
+
+msgid "Population"
+msgstr ""
+
+msgid "Modified Density"
+msgstr ""
+
+msgid "Populate"
+msgstr ""
+
+msgid "Brush"
+msgstr ""
+
+msgid "Erase"
+msgstr ""
+
+msgid "This will delete all instances. Are you sure?"
+msgstr ""
+
+msgid "Clear Instances"
+msgstr ""
+
+msgid "Package"
+msgstr ""
+
+msgid "Please enter new package name."
+msgstr ""
+
+msgid "New Instance Package"
+msgstr ""
+
+msgid ""
+"An instance with the same name already exists. Do you want to link\n"
+"to existing instance or create a copy of the selected primitive model?\n"
+"\n"
+"Yes: link to existing instance.\n"
+"No: create a new copy."
+msgstr ""
+
+msgid "Name Conflict"
+msgstr ""
+
+msgid ""
+"A degenerate surface is contained in the canvas that can not be populated.\n"
+"This surface may either be an infinite plane or a zero area object."
+msgstr ""
+
+msgid "Warning"
+msgstr ""
+
+msgid "Toggle parameter varying with time."
+msgstr ""
+
+msgid "Size"
+msgstr ""
+
+msgid "Caustics"
+msgstr ""
+
+msgid "Color / Intensity"
+msgstr ""
+
+msgid "Selection Properties"
+msgstr ""
+
+msgid "Selection Coordinates"
+msgstr ""
+
+msgid "Current View Properties"
+msgstr ""
+
+msgid "Interactive Render Properties"
+msgstr ""
+
+msgid "Display Properties"
+msgstr ""
+
+msgid "Get IR Settings From Scene"
+msgstr ""
+
+msgid "Apply IR Settings To Scene"
+msgstr ""
+
+msgid "Max Objects per Cell"
+msgstr ""
+
+msgid ""
+"This indicates the maximum number of objects per cell after decomposition of "
+"all meshes. The less this number is, the faster will be the intersection "
+"computations but also the memory consumed will be much higher. Note that "
+"this value can not be less than 15."
+msgstr ""
+
+msgid "Tone Mapping"
+msgstr ""
+
+msgid "External"
+msgstr ""
+
+msgid "Reinhard"
+msgstr ""
+
+msgid "Drago"
+msgstr ""
+
+msgid "Jpeg Quality"
+msgstr ""
+
+msgid "Low"
+msgstr ""
+
+msgid "High"
+msgstr ""
+
+msgid "Higher"
+msgstr ""
+
+msgid "Perfect"
+msgstr ""
+
+msgid "Filter"
+msgstr ""
+
+msgid "Balance"
+msgstr ""
+
+msgid "Bloom"
+msgstr ""
+
+msgid "Enable CRF"
+msgstr ""
+
+msgid "Burn Weight"
+msgstr ""
+
+msgid "Glare Blades"
+msgstr ""
+
+msgid "Bloom Weight"
+msgstr ""
+
+msgid "Bloom Radius"
+msgstr ""
+
+msgid "Vignetting Weight"
+msgstr ""
+
+msgid "Chroma Weight"
+msgstr ""
+
+msgid "Contrast Weight"
+msgstr ""
+
+msgid "Temperature"
+msgstr ""
+
+msgid "CRF File"
+msgstr ""
+
+msgid "False Color"
+msgstr ""
+
+msgid "Rois"
+msgstr ""
+
+msgid "Total Frames"
+msgstr ""
+
+msgid "Start Frame"
+msgstr ""
+
+msgid "End Frame"
+msgstr ""
+
+msgid "Current Frame"
+msgstr ""
+
+msgid "Begin Frames"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Duration (sec)"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Frame Rate"
+msgstr ""
+
+msgid "Render Frames"
+msgstr ""
+
+msgid "Current"
+msgstr ""
+
+msgid "All"
+msgstr ""
+
+msgid "Selected"
+msgstr ""
+
+msgid "Clock Start"
+msgstr ""
+
+msgid "Clock End"
+msgstr ""
+
+msgid "Layer Mask"
+msgstr ""
+
+msgid "Engine Core"
+msgstr ""
+
+msgid "Adaptive (BSD)"
+msgstr ""
+
+msgid "Unbiased (TR1)"
+msgstr ""
+
+msgid "Unbiased (TR2)"
+msgstr ""
+
+msgid "Progressive (BSD)"
+msgstr ""
+
+msgid "Unbiased* (MC)"
+msgstr ""
+
+msgid "Adaptive (AMC)"
+msgstr ""
+
+msgid "Supersampling"
+msgstr ""
+
+msgid "Auto"
+msgstr ""
+
+msgid "Max Passes"
+msgstr ""
+
+msgid "Time Limit (min)"
+msgstr ""
+
+msgid "Max Samples"
+msgstr ""
+
+msgid "Warm Up"
+msgstr ""
+
+msgid "Motion Blur"
+msgstr ""
+
+msgid "Displacement"
+msgstr ""
+
+msgid "Volumetric Scattering"
+msgstr ""
+
+msgid "Image Saving"
+msgstr ""
+
+msgid "Film Saving"
+msgstr ""
+
+msgid "Priority"
+msgstr ""
+
+msgid "Lower"
+msgstr ""
+
+msgid "Upload Period"
+msgstr ""
+
+msgid "Tracing Depth"
+msgstr ""
+
+msgid "Diffuse Depth"
+msgstr ""
+
+msgid "Glossy Depth"
+msgstr ""
+
+msgid "Trace Reflections"
+msgstr ""
+
+msgid "Trace Refractions"
+msgstr ""
+
+msgid "Trace Transparencies"
+msgstr ""
+
+msgid "Trace Dispersion"
+msgstr ""
+
+msgid "Max Contrast"
+msgstr ""
+
+msgid "Min AA Subdivs"
+msgstr ""
+
+msgid "Max AA Subdivs"
+msgstr ""
+
+msgid "Reflectance"
+msgstr ""
+
+msgid "Perceptual Based"
+msgstr ""
+
+msgid "Max Direct Error"
+msgstr ""
+
+msgid "Leak Compensation"
+msgstr ""
+
+msgid "Caustic Sharpening"
+msgstr ""
+
+msgid "Photons Captured"
+msgstr ""
+
+msgid "Caustic Captured"
+msgstr ""
+
+msgid "Global Radius"
+msgstr ""
+
+msgid "Caustic Radius"
+msgstr ""
+
+msgid "Samples"
+msgstr ""
+
+msgid "Adaptive Steps"
+msgstr ""
+
+msgid "Secondary Gather"
+msgstr ""
+
+msgid "Distance Threshold (m)"
+msgstr ""
+
+msgid "Glossy Evaluation"
+msgstr ""
+
+msgid "Caustic Evaluation"
+msgstr ""
+
+msgid "Visualize"
+msgstr ""
+
+msgid "Force Interpolation"
+msgstr ""
+
+msgid "Prepass"
+msgstr ""
+
+msgid "1/1"
+msgstr ""
+
+msgid "1/2"
+msgstr ""
+
+msgid "1/4"
+msgstr ""
+
+msgid "1/8"
+msgstr ""
+
+msgid "Accuracy"
+msgstr ""
+
+msgid "Prepass Boost"
+msgstr ""
+
+msgid "Prepass Only"
+msgstr ""
+
+msgid "Min Distance"
+msgstr ""
+
+msgid "Max Distance"
+msgstr ""
+
+msgid "Min Blurred Subdivs"
+msgstr ""
+
+msgid "Max Blurred Subdivs"
+msgstr ""
+
+msgid "Multiply"
+msgstr ""
+
+msgid "Clamp"
+msgstr ""
+
+msgid "Distance"
+msgstr ""
+
+msgid "Low Color"
+msgstr ""
+
+msgid "High Color"
+msgstr ""
+
+msgid "Intensity"
+msgstr ""
+
+msgid "Depth"
+msgstr ""
+
+msgid "Alpha"
+msgstr ""
+
+msgid "Object Id"
+msgstr ""
+
+msgid "Material Id"
+msgstr ""
+
+msgid "Direct"
+msgstr ""
+
+msgid "AO"
+msgstr ""
+
+msgid "GI"
+msgstr ""
+
+msgid "Reflection"
+msgstr ""
+
+msgid "Refraction"
+msgstr ""
+
+msgid "Transparent"
+msgstr ""
+
+msgid "Irradiance"
+msgstr ""
+
+msgid "Repaint"
+msgstr ""
+
+msgid "Clamp Radiance"
+msgstr ""
+
+msgid "Adaptive Bias"
+msgstr ""
+
+msgid "Russian Roulette"
+msgstr ""
+
+msgid "Russian Roulette Depth"
+msgstr ""
+
+msgid "Brightness Termination"
+msgstr ""
+
+msgid "Brightness Threshold"
+msgstr ""
+
+msgid "Film"
+msgstr ""
+
+msgid ""
+"The resolution of the generated image in the format PxL (P: pixels, L: "
+"lines)."
+msgstr ""
+
+msgid "200x200"
+msgstr ""
+
+msgid "320x200"
+msgstr ""
+
+msgid "320x240"
+msgstr ""
+
+msgid "500x500"
+msgstr ""
+
+msgid "512x384"
+msgstr ""
+
+msgid "640x480"
+msgstr ""
+
+msgid "768x576"
+msgstr ""
+
+msgid "800x600"
+msgstr ""
+
+msgid "1024x768"
+msgstr ""
+
+msgid "1280x1024"
+msgstr ""
+
+msgid "1600x1200"
+msgstr ""
+
+msgid "2000x1500"
+msgstr ""
+
+msgid "3000x2250"
+msgstr ""
+
+msgid "4000x3000"
+msgstr ""
+
+msgid "Film Height (mm)"
+msgstr ""
+
+msgid ""
+"The height of the film in mm. Note that the width of the film is set "
+"indirectly based on camera resolution."
+msgstr ""
+
+msgid "Focal Length (mm)"
+msgstr ""
+
+msgid ""
+"The focal length of the camera in mm. The greater it is, the smaller the "
+"view field of the camera."
+msgstr ""
+
+msgid "Lens"
+msgstr ""
+
+msgid "Projection"
+msgstr ""
+
+msgid "Describes the kind of lens projection on the film"
+msgstr ""
+
+msgid "Perspective"
+msgstr ""
+
+msgid "Cylindrical"
+msgstr ""
+
+msgid "Spherical"
+msgstr ""
+
+msgid "Parallel"
+msgstr ""
+
+msgid "The inverse of the exposure time, counted in frames/sec."
+msgstr ""
+
+msgid "Shift X (mm)"
+msgstr ""
+
+msgid "The lens shift in mm along horizontal axis."
+msgstr ""
+
+msgid "Shift Y (mm)"
+msgstr ""
+
+msgid "The lens shift in mm along vertical axis."
+msgstr ""
+
+msgid "Diaphragm"
+msgstr ""
+
+msgid "The generic shape of the lens."
+msgstr ""
+
+msgid "Circular"
+msgstr ""
+
+msgid "Polygonal"
+msgstr ""
+
+msgid "Blades"
+msgstr ""
+
+msgid "The order of the polygonal lens (usually 5 or 6)."
+msgstr ""
+
+msgid "Depth of Field"
+msgstr ""
+
+msgid ""
+"The f-number corresponds to focal length / lens diameter ratio. The higher "
+"this value, the sharper the image."
+msgstr ""
+
+msgid "Focus Distance"
+msgstr ""
+
+msgid "The distance along the z-axis where the target of the camera lies."
+msgstr ""
+
+msgid "Describes the relative space that stays sharp in the image."
+msgstr ""
+
+msgid ""
+"if true, the camera will focus on the object at the center, before rendering "
+"is started."
+msgstr ""
+
+msgid "Normalized Time"
+msgstr ""
+
+msgid ""
+"The time is given in the range [0,1] for easy control over the frames "
+"generation."
+msgstr ""
+
+msgid ""
+"The current time which controls the camera position and characteristics."
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid ""
+"The total duration of the animation in seconds used to normalize automatic "
+"time calculation when interpolation is used."
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+msgid ""
+"The rate of the animation in frames per second defines the total renders to "
+"be made when interpolation is used."
+msgstr ""
+
+msgid "Interpolation"
+msgstr ""
+
+msgid ""
+"The type of interpolation - Linear and Spline interpolation correspond to "
+"linear and cubic interpolation correspondingly. When there is no "
+"interpolation, only the renders at the node cameras are produced (useful for "
+"batch rendering)."
+msgstr ""
+
+msgid "Frame Selection"
+msgstr ""
+
+msgid ""
+"Enter the frames to be rendered such as '3-8,15,17-20'. If left empty, all "
+"frames will be rendered."
+msgstr ""
+
+msgid "Toggle the light on and off."
+msgstr ""
+
+msgid "Toggle shadows from this light on and off."
+msgstr ""
+
+msgid "Soft Shadow (m)"
+msgstr ""
+
+msgid "Min Rays"
+msgstr ""
+
+msgid "Minimum number of rays to shoot for shadow computation. (biased)"
+msgstr ""
+
+msgid "Max Rays"
+msgstr ""
+
+msgid "Maximum number of rays to shoot for shadow computation. (biased)"
+msgstr ""
+
+msgid "Toggle whether this light generates global photons."
+msgstr ""
+
+msgid "Toggle whether this light generates caustic photons."
+msgstr ""
+
+msgid "Dirt"
+msgstr ""
+
+msgid "Dirt Map"
+msgstr ""
+
+msgid "Perceptual Level"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "If false, the object will not be rendered."
+msgstr ""
+
+msgid ""
+"If false, the object will not be visible. Tip: an invisible model can still "
+"cast light."
+msgstr ""
+
+msgid ""
+"If true, then the surface is assumed to have consistent mesh that prevents "
+"lighting leaks."
+msgstr ""
+
+msgid "If true, then this surface casts shadows. (biased)"
+msgstr ""
+
+msgid "If true, then this surface receives shadows. (biased)"
+msgstr ""
+
+msgid ""
+"If true, then this surface can produce caustics (on another one). (biased)"
+msgstr ""
+
+msgid ""
+"If true, then this surface can show caustics (produced by another one). "
+"(biased)"
+msgstr ""
+
+msgid "UV Channels"
+msgstr ""
+
+msgid "Diffuse"
+msgstr ""
+
+msgid "Translucent"
+msgstr ""
+
+msgid "Roughness"
+msgstr ""
+
+msgid "Tangential"
+msgstr ""
+
+msgid "Anisotropic"
+msgstr ""
+
+msgid "Bump"
+msgstr ""
+
+msgid "Thickness"
+msgstr ""
+
+msgid "Density"
+msgstr ""
+
+msgid "Map"
+msgstr ""
+
+msgid "Alias"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Pivot"
+msgstr ""
+
+msgid "Vertex List"
+msgstr ""
+
+msgid "The 3d vertex list."
+msgstr ""
+
+msgid "Normal List"
+msgstr ""
+
+msgid ""
+"The 3d normal list. Note that the list is non-empty only if the mesh is "
+"smooth."
+msgstr ""
+
+msgid "Index List"
+msgstr ""
+
+msgid "The index list (used for triangle indexing to the shared nodes)."
+msgstr ""
+
+msgid "Channel Code"
+msgstr ""
+
+msgid "Smoothing Angle"
+msgstr ""
+
+msgid ""
+"This parameter indicates the smoothing angle of the mesh (special values: 0 "
+"- flat, 180 - totally smooth)."
+msgstr ""
+
+msgid "Selection Enabled"
+msgstr ""
+
+msgid "Selection List"
+msgstr ""
+
+msgid "Scattering"
+msgstr ""
+
+msgid "Transmittance"
+msgstr ""
+
+msgid "Index of Refraction"
+msgstr ""
+
+msgid ""
+"The index of refraction for the inner area of the film. Note that this does "
+"not produce any light bending due to considering a very thin film plate."
+msgstr ""
+
+msgid "Interference"
+msgstr ""
+
+msgid "Thickness (nm)"
+msgstr ""
+
+msgid "Thickness Map"
+msgstr ""
+
+msgid "Structure"
+msgstr ""
+
+msgid "Bump Strength"
+msgstr ""
+
+msgid "Bump Map"
+msgstr ""
+
+msgid "Normal Mapping"
+msgstr ""
+
+msgid "Absorption"
+msgstr ""
+
+msgid "Absorption Density"
+msgstr ""
+
+msgid "Absorption Color"
+msgstr ""
+
+msgid ""
+"The index of refraction is used only when Fresnel attenuation is active for "
+"the accurate percentage calculation of the reflectance."
+msgstr ""
+
+msgid "Extinction Coefficient"
+msgstr ""
+
+msgid "Sigma"
+msgstr ""
+
+msgid "Sigma Map"
+msgstr ""
+
+msgid ""
+"The roughness of the material along x local axis taking values from 0 to 1."
+msgstr ""
+
+msgid "Roughness Map"
+msgstr ""
+
+msgid "Anisotropy"
+msgstr ""
+
+msgid "The anisotropy of the material between x and y local axis."
+msgstr ""
+
+msgid "Anisotropy Map"
+msgstr ""
+
+msgid ""
+"The rotation (in degrees) in the uv local frame. This can be used to control "
+"anisotropy direction."
+msgstr ""
+
+msgid "Rotation Map"
+msgstr ""
+
+msgid "Fresnel"
+msgstr ""
+
+msgid "Reflectance 90"
+msgstr ""
+
+msgid "Custom Curve"
+msgstr ""
+
+msgid "Reflectance Curve"
+msgstr ""
+
+msgid "Scattering Density"
+msgstr ""
+
+msgid "Scattering Color"
+msgstr ""
+
+msgid "Asymmetry"
+msgstr ""
+
+msgid "Roughness Tr."
+msgstr ""
+
+msgid "Roughness Tr. Map"
+msgstr ""
+
+msgid "Abbe Number"
+msgstr ""
+
+msgid "IOR File"
+msgstr ""
+
+msgid ""
+"Measured wavelength data describing index of refraction and absorption. It "
+"is used when attenuation is set to Fresnel to modify accordingly the "
+"specular channel."
+msgstr ""
+
+msgid "Thickness (um)"
+msgstr ""
+
+msgid "Coatings"
+msgstr ""
+
+msgid "Stacks"
+msgstr ""
+
+msgid "Bitmap Options"
+msgstr ""
+
+msgid "Filename"
+msgstr ""
+
+msgid "UV"
+msgstr ""
+
+msgid "Cubic"
+msgstr ""
+
+msgid "Front"
+msgstr ""
+
+msgid "Shrink Wrap"
+msgstr ""
+
+msgid "Camera Map"
+msgstr ""
+
+msgid "Cubic (Centered)"
+msgstr ""
+
+msgid "Flat (Centered)"
+msgstr ""
+
+msgid "UV Channel"
+msgstr ""
+
+msgid "Bilinear"
+msgstr ""
+
+msgid "Trilinear"
+msgstr ""
+
+msgid "Offset X"
+msgstr ""
+
+msgid "Offset Y"
+msgstr ""
+
+msgid "Scale X"
+msgstr ""
+
+msgid "Scale Y"
+msgstr ""
+
+msgid "Invert"
+msgstr ""
+
+msgid "Clamp Min"
+msgstr ""
+
+msgid "Clamp Max"
+msgstr ""
+
+msgid "Complement"
+msgstr ""
+
+msgid "Red-Green"
+msgstr ""
+
+msgid "Red-Blue"
+msgstr ""
+
+msgid "Green-Blue"
+msgstr ""
+
+msgid "Checker Options"
+msgstr ""
+
+msgid "Offset Z"
+msgstr ""
+
+msgid "Scale Z"
+msgstr ""
+
+msgid "Local"
+msgstr ""
+
+msgid "Ramp Options"
+msgstr ""
+
+msgid "Add Color"
+msgstr ""
+
+msgid "Remove Colors"
+msgstr ""
+
+msgid "Perlin Noise Options"
+msgstr ""
+
+msgid "Octaves"
+msgstr ""
+
+msgid "Omega"
+msgstr ""
+
+msgid "Turbulence"
+msgstr ""
+
+msgid "Windy Options"
+msgstr ""
+
+msgid "Strength Octaves"
+msgstr ""
+
+msgid "Height Octaves"
+msgstr ""
+
+msgid "Strength Omega"
+msgstr ""
+
+msgid "Height Omega"
+msgstr ""
+
+msgid "Symmetric"
+msgstr ""
+
+msgid "Marble Options"
+msgstr ""
+
+msgid "Variation"
+msgstr ""
+
+msgid "Voronoi Options"
+msgstr ""
+
+msgid "Cell Color"
+msgstr ""
+
+msgid "Ridge Color"
+msgstr ""
+
+msgid "Plateau Color"
+msgstr ""
+
+msgid "Ridge"
+msgstr ""
+
+msgid "Plateau"
+msgstr ""
+
+msgid "Wood Options"
+msgstr ""
+
+msgid "Wireframe Options"
+msgstr ""
+
+msgid "Wire Color"
+msgstr ""
+
+msgid "Inner Color"
+msgstr ""
+
+msgid "Fadeout"
+msgstr ""
+
+msgid "Hard Edge Threshold"
+msgstr ""
+
+msgid "All Edges"
+msgstr ""
+
+msgid "Silhouette Edges"
+msgstr ""
+
+msgid "Open Edges"
+msgstr ""
+
+msgid "Soft Edges"
+msgstr ""
+
+msgid "Hard Inner Edges"
+msgstr ""
+
+msgid "Hard Outer Edges"
+msgstr ""
+
+msgid "Concentric Options"
+msgstr ""
+
+msgid "Curl Options"
+msgstr ""
+
+msgid "Tile Options"
+msgstr ""
+
+msgid "U Repetitions"
+msgstr ""
+
+msgid "V Repetitions"
+msgstr ""
+
+msgid "Normalization"
+msgstr ""
+
+msgid "Emittance"
+msgstr "Излучение"
+
+msgid "Power"
+msgstr "Питание"
+
+msgid "Unit"
+msgstr ""
+
+msgid "Lumens"
+msgstr ""
+
+msgid "lm/m2"
+msgstr ""
+
+msgid "Candelas"
+msgstr ""
+
+msgid "cd/m2"
+msgstr ""
+
+msgid "Watts"
+msgstr ""
+
+msgid "W/m2"
+msgstr ""
+
+msgid "W/sr"
+msgstr ""
+
+msgid "W/sr/m2"
+msgstr ""
+
+msgid "W/nm"
+msgstr ""
+
+msgid "W/nm/m2"
+msgstr ""
+
+msgid "W/nm/sr"
+msgstr ""
+
+msgid "W/nm/sr/m2"
+msgstr ""
+
+msgid "Efficacy"
+msgstr ""
+
+msgid "Attenuation"
+msgstr ""
+
+msgid "Inverse"
+msgstr ""
+
+msgid "Inverse Square"
+msgstr ""
+
+msgid "Fall Off"
+msgstr ""
+
+msgid "Hot Spot"
+msgstr "Горячая точка"
+
+msgid "Width"
+msgstr "Ширина"
+
+msgid "Height"
+msgstr "Высота"
+
+msgid "IES File"
+msgstr "IES Файл"
+
+msgid "Multiplier"
+msgstr ""
+
+msgid "Scatter Color"
+msgstr ""
+
+msgid "Absorption Coefficient"
+msgstr "Коэффициент поглощения"
+
+msgid "Scatter Density"
+msgstr ""
+
+msgid "Scatter Coefficient"
+msgstr ""
+
+msgid "Coefficient File"
+msgstr ""
+
+msgid "Phase Function"
+msgstr ""
+
+msgid "Isotropic"
+msgstr ""
+
+msgid "Rayleigh"
+msgstr ""
+
+msgid "Mie Hazy"
+msgstr ""
+
+msgid "Mie Murky"
+msgstr ""
+
+msgid "Mie Retro"
+msgstr ""
+
+msgid "Henyey Greenstein"
+msgstr ""
+
+msgid "Bump Mapping"
+msgstr ""
+
+msgid "Texture"
+msgstr "Тектсура"
+
+msgid "Strength"
+msgstr ""
+
+msgid "Bevel Mapping"
+msgstr ""
+
+msgid "Clip Mapping"
+msgstr ""
+
+msgid "Threshold"
+msgstr ""
+
+msgid "Soft"
+msgstr "Мягкий"
+
+msgid "Pre Transform"
+msgstr ""
+
+msgid "Post Transform"
+msgstr ""
+
+msgid "Micro-Bump"
+msgstr ""
+
+msgid "Height (cm)"
+msgstr ""
+
+msgid "Normal Smoothing"
+msgstr ""
+
+msgid "Tight Bounds"
+msgstr ""
+
+msgid "Mip Mapping"
+msgstr ""
+
+msgid "Reset Irradiance Cache"
+msgstr ""
+
+msgid "Lock Irradiance Cache"
+msgstr ""
+
+msgid "Load Irradiance Cache"
+msgstr ""
+
+msgid "Save Irradiance Cache"
+msgstr ""
+
+msgid "Reset Global Map"
+msgstr ""
+
+msgid "Reset Caustic Map"
+msgstr ""
+
+msgid "Physical Sky"
+msgstr "Физическое небо"
+
+msgid "Turbidity"
+msgstr "Мутность"
+
+msgid "Ozone"
+msgstr "Озон"
+
+msgid "Water Vapor"
+msgstr "Водяной пар"
+
+msgid "Turbidity Coefficient"
+msgstr "Коэффициент мутности"
+
+msgid "Wavelength Exponent"
+msgstr ""
+
+msgid "Location/Time"
+msgstr "Место/время"
+
+msgid "Location"
+msgstr "Местоположение"
+
+msgid "Latitude"
+msgstr "Широта"
+
+msgid "Longitude"
+msgstr "Долгота"
+
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+msgid "GT-12"
+msgstr ""
+
+msgid "GT-11"
+msgstr ""
+
+msgid "GT-10"
+msgstr ""
+
+msgid "GT-09"
+msgstr ""
+
+msgid "GT-08"
+msgstr ""
+
+msgid "GT-07"
+msgstr ""
+
+msgid "GT-06"
+msgstr ""
+
+msgid "GT-05"
+msgstr ""
+
+msgid "GT-04"
+msgstr ""
+
+msgid "GT-03"
+msgstr ""
+
+msgid "GT-02"
+msgstr ""
+
+msgid "GT-01"
+msgstr ""
+
+msgid "GT+00"
+msgstr ""
+
+msgid "GT+01"
+msgstr ""
+
+msgid "GT+02"
+msgstr ""
+
+msgid "GT+03"
+msgstr ""
+
+msgid "GT+04"
+msgstr ""
+
+msgid "GT+05"
+msgstr ""
+
+msgid "GT+06"
+msgstr ""
+
+msgid "GT+07"
+msgstr ""
+
+msgid "GT+08"
+msgstr ""
+
+msgid "GT+09"
+msgstr ""
+
+msgid "GT+10"
+msgstr ""
+
+msgid "GT+11"
+msgstr ""
+
+msgid "GT+12"
+msgstr ""
+
+msgid "Date"
+msgstr "Дата"
+
+msgid "Image Based Lighting"
+msgstr ""
+
+msgid "Wrapping"
+msgstr ""
+
+msgid "Hemispherical"
+msgstr ""
+
+msgid "Angular Probe"
+msgstr ""
+
+msgid "Background Mapping"
+msgstr ""
+
+msgid "Tile"
+msgstr ""
+
+msgid "Fit"
+msgstr ""
+
+msgid "Reflection Mapping"
+msgstr ""
+
+msgid "Refraction Mapping"
+msgstr ""
+
+msgid "Sun Position"
+msgstr ""
+
+msgid "Polar Angle (deg)"
+msgstr ""
+
+msgid "Azimuth (deg)"
+msgstr ""
+
+msgid "Images Filename"
+msgstr ""
+
+msgid "Switch to Point Cloud Mode"
+msgstr ""
+
+msgid "Switch to Wireframe Mode"
+msgstr ""
+
+msgid "Switch to Solid Mode"
+msgstr ""
+
+msgid "Switch to Hidden Line Mode"
+msgstr ""
+
+msgid "Model Display : Point Cloud"
+msgstr ""
+
+msgid "Model Display : Wireframe"
+msgstr ""
+
+msgid "Model Display : Solid"
+msgstr ""
+
+msgid "Model Display : Hidden line"
+msgstr ""
+
+msgid "Switch to Perspective View"
+msgstr ""
+
+msgid "Switch to Parallel View"
+msgstr ""
+
+msgid "Front View"
+msgstr "Вид спереди"
+
+msgid "Back View"
+msgstr "Вид сзади"
+
+msgid "Left View"
+msgstr "Вид слева"
+
+msgid "Right View"
+msgstr "Вид справа"
+
+msgid "Top View"
+msgstr "Вид сверху"
+
+msgid "Bottom View"
+msgstr "Вид снизу"
+
+msgid "Go to Selected Camera View"
+msgstr "Перейти к виду выбранной камеры"
+
+msgid "Fit Selected Object in View"
+msgstr ""
+
+msgid "Center Selected Object in View"
+msgstr ""
+
+msgid "View Selection : User View"
+msgstr "Вид: Пользовательский"
+
+msgid "View Selection : Front View"
+msgstr "Вид: Спереди"
+
+msgid "View Selection : Back View"
+msgstr "Вид: Сзади"
+
+msgid "View Selection : Left View"
+msgstr "Вид: Слева"
+
+msgid "View Selection : Right View"
+msgstr "Вид: Справа"
+
+msgid "View Selection : Top View"
+msgstr "Вид: Сверху"
+
+msgid "View Selection : Bottom View"
+msgstr "Вид: Снизу"
+
+msgid "Mount Camera"
+msgstr "Установить камеру"
+
+msgid "Next Camera View"
+msgstr "Следующий вид камеры"
+
+msgid "Show Toolbar"
+msgstr "Показать панель инструментов"
+
+msgid "Hide Toolbar"
+msgstr ""
+
+msgid "Select Object"
+msgstr ""
+
+msgid "Rotate View"
+msgstr ""
+
+msgid "Pan View"
+msgstr ""
+
+msgid "Roll View"
+msgstr ""
+
+msgid "Dolly View"
+msgstr ""
+
+msgid "Select Focal Point"
+msgstr ""
+
+msgid "Instance Brush"
+msgstr ""
+
+msgid "Instance Eraser"
+msgstr ""
+
+msgid "Move Toolbar"
+msgstr "Переместить панель инструментов"
+
+msgid "Close Toolbar"
+msgstr "Закрыть панель инструментов"
+
+msgid "Pin Tools"
+msgstr ""
+
+msgid "Selection/Navigation : Select Object"
+msgstr ""
+
+msgid "Selection/Navigation : Rotate View"
+msgstr ""
+
+msgid "Selection/Navigation : Pan View"
+msgstr ""
+
+msgid "Selection/Navigation : Roll View"
+msgstr ""
+
+msgid "Selection/Navigation : Dolly View"
+msgstr ""
+
+msgid "Selection/Navigation : Render Region"
+msgstr ""
+
+msgid "Selection/Navigation : Focal Point"
+msgstr ""
+
+msgid "Selection/Navigation : Instance Brush"
+msgstr ""
+
+msgid "Selection/Navigation : Instance Eraser"
+msgstr ""
+
+msgid "Undo"
+msgstr "Вперед"
+
+msgid "Redo"
+msgstr "Назад"
+
+msgid "Group Selected Objects"
+msgstr ""
+
+msgid "Ungroup Selection"
+msgstr ""
+
+msgid "Duplicate Object"
+msgstr ""
+
+msgid "Translate Object"
+msgstr ""
+
+msgid "Rotate Object"
+msgstr ""
+
+msgid "Scale Object"
+msgstr ""
+
+msgid "Delete Object"
+msgstr ""
+
+msgid "Hide Object"
+msgstr ""
+
+msgid "Show all Objects"
+msgstr ""
+
+msgid "Object Layer 0"
+msgstr ""
+
+msgid "Object Layer 1"
+msgstr ""
+
+msgid "Object Layer 2"
+msgstr ""
+
+msgid "Object Layer 3"
+msgstr ""
+
+msgid "Object Layer 4"
+msgstr ""
+
+msgid "Object Layer 5"
+msgstr ""
+
+msgid "Object Layer 6"
+msgstr ""
+
+msgid "Object Layer 7"
+msgstr ""
+
+msgid "Object Layer 8"
+msgstr ""
+
+msgid "Object Layer 9"
+msgstr ""
+
+msgid "Insert Omni Light"
+msgstr ""
+
+msgid "Insert Spot Light"
+msgstr ""
+
+msgid "Insert IES Light"
+msgstr ""
+
+msgid "Insert Projector Light"
+msgstr ""
+
+msgid "Insert Camera"
+msgstr ""
+
+msgid "Insert Infinite Plane"
+msgstr ""
+
+msgid "Insert at Global Frame"
+msgstr ""
+
+msgid "Insert at Cursor Frame"
+msgstr ""
+
+msgid "Insert at Viewer Frame"
+msgstr ""
+
+msgid "Insert Lights/Cameras/Infinite Plane"
+msgstr ""
+
+msgid "Fly Mode"
+msgstr ""
+
+msgid "Dynamic Mode"
+msgstr ""
+
+msgid "Pivot Mode"
+msgstr ""
+
+msgid "Draw Full Wireframe"
+msgstr ""
+
+msgid "Draw Selection Only"
+msgstr ""
+
+msgid "Draw Gizmo"
+msgstr ""
+
+msgid "Draw Frame"
+msgstr ""
+
+msgid "Draw Compass"
+msgstr ""
+
+msgid "Draw Grid"
+msgstr ""
+
+msgid "Viewport Preferences"
+msgstr ""
+
+msgid "Animation Tool"
+msgstr ""
+
+msgid "Interactive Render Tool"
+msgstr ""
+
+msgid "Set Key Frame"
+msgstr ""
+
+msgid "Delete Key Frame"
+msgstr ""
+
+msgid "Delete all Key Frames"
+msgstr ""
+
+msgid "Go to First Frame"
+msgstr ""
+
+msgid "Go to Previous Frame"
+msgstr ""
+
+msgid "Go to Next Frame"
+msgstr ""
+
+msgid "Go to Last Frame"
+msgstr ""
+
+msgid "Go to Previous Key Frame"
+msgstr ""
+
+msgid "Go to Next Key Frame"
+msgstr ""
+
+msgid "Close Tool"
+msgstr ""
+
+msgid "Playback"
+msgstr ""
+
+msgid "Playback in Loop"
+msgstr ""
+
+msgid "Reverse Playback"
+msgstr ""
+
+msgid "Render Resolution 320x240"
+msgstr ""
+
+msgid "Render Resolution 400x300"
+msgstr ""
+
+msgid "Render Resolution 500x375"
+msgstr ""
+
+msgid "Render Camera Frame"
+msgstr ""
+
+msgid "Overlay Render"
+msgstr ""
+
+msgid "Render Resolution"
+msgstr ""
+
+msgid "Refresh Render Display"
+msgstr ""
+
+msgid "Disable Auto Refresh"
+msgstr ""
+
+msgid "Enable Auto Refresh"
+msgstr ""
+
+msgid "Enable Synchronous Display"
+msgstr ""
+
+msgid "Disable Synchronous Display"
+msgstr ""
+
+msgid "Toggle Display Mode"
+msgstr ""
+
+msgid "Start Interactve Render"
+msgstr ""
+
+msgid "Stop Interactve Render"
+msgstr ""
+
+msgid "Pivot Movement Mode"
+msgstr ""
+
+msgid "UV Bitmap Projection"
+msgstr ""
+
+msgid "Cubic Bitmap Projection"
+msgstr ""
+
+msgid "Cylindrical Bitmap Projection"
+msgstr ""
+
+msgid "Spherical Bitmap Projection"
+msgstr ""
+
+msgid "Align Selected Objects"
+msgstr ""
+
+msgid "Stack Selected Objects"
+msgstr ""
+
+msgid "Place Selected Object on Ground"
+msgstr ""
+
+msgid "Meters"
+msgstr "Метры"
+
+msgid "Centimeters"
+msgstr "Сантиметры"
+
+msgid "Millimeters"
+msgstr "Миллиметры"
+
+msgid "Feet"
+msgstr ""
+
+msgid "Inches"
+msgstr ""
+
+msgid "Radians"
+msgstr ""
+
+msgid "Degrees"
+msgstr ""
+
+msgid "Select Object Transform Units"
+msgstr ""
+
+msgid "Bitmap Coordinates"
+msgstr ""
+
+msgid "Object Transform"
+msgstr ""
+
+msgid "Transform Tool"
+msgstr "Инструмент преобразований"
