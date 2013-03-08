@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Thea Render RV678\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-21 13:02+0200\n"
-"PO-Revision-Date: 2013-03-08 20:40+0200\n"
+"PO-Revision-Date: 2013-03-08 22:55+0200\n"
 "Last-Translator: Nursill <Nursill@gmail.com>\n"
 "Language-Team: <>\n"
 "MIME-Version: 1.0\n"
@@ -2938,7 +2938,7 @@ msgid "Duration (sec)"
 msgstr ""
 
 msgid "Time"
-msgstr ""
+msgstr "Время"
 
 msgid "Frame Rate"
 msgstr ""
@@ -2989,10 +2989,10 @@ msgid "Supersampling"
 msgstr ""
 
 msgid "Auto"
-msgstr ""
+msgstr "Авто"
 
 msgid "Max Passes"
-msgstr ""
+msgstr "Максимально проходов"
 
 msgid "Time Limit (min)"
 msgstr ""
@@ -3019,13 +3019,13 @@ msgid "Film Saving"
 msgstr ""
 
 msgid "Priority"
-msgstr ""
+msgstr "Приоритет"
 
 msgid "Lower"
 msgstr ""
 
 msgid "Upload Period"
-msgstr ""
+msgstr "Период загрузки"
 
 msgid "Tracing Depth"
 msgstr ""
