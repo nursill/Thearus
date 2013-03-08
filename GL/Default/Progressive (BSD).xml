@@ -1,0 +1,71 @@
+<Root Label="Render Settings" Name="" Type="Render Settings">
+<Parameter Name="Engine Core" Type="String" Value="Progressive (BSD)"/>
+<Parameter Name="Supersampling" Type="String" Value="Auto"/>
+<Parameter Name="Max Passes" Type="Integer" Value="10000"/>
+<Parameter Name="Warm Up" Type="Integer" Value="0"/>
+<Parameter Name="Time Limit (min)" Type="Integer" Value="0"/>
+<Parameter Name="Motion Blur" Type="Boolean" Value="1"/>
+<Parameter Name="Volumetric Scattering" Type="Boolean" Value="1"/>
+<Parameter Name="Relight" Type="Boolean" Value="0"/>
+<Parameter Name="Threads" Type="Integer" Value="0"/>
+<Parameter Name="Priority" Type="String" Value="Low"/>
+<Parameter Name="Network" Type="String" Value="None"/>
+<Parameter Name="Server Port" Type="Integer" Value="6200"/>
+<Parameter Name="Upload Period" Type="Integer" Value="1"/>
+<Parameter Name="Server Address" Type="String" Value="127.0.0.1"/>
+<Parameter Name="Tracing Depth" Type="Integer" Value="5"/>
+<Parameter Name="Glossy Depth" Type="Integer" Value="2"/>
+<Parameter Name="Trace Reflections" Type="Boolean" Value="1"/>
+<Parameter Name="Trace Refractions" Type="Boolean" Value="1"/>
+<Parameter Name="Trace Transparencies" Type="Boolean" Value="1"/>
+<Parameter Name="Trace Dispersion" Type="Boolean" Value="0"/>
+<Parameter Name="Max Contrast" Type="Real" Value="0.02"/>
+<Parameter Name="Min AA Subdivs" Type="Integer" Value="0"/>
+<Parameter Name="Max AA Subdivs" Type="Integer" Value="4"/>
+<Parameter Name="./Direct Lighting/Enable" Type="Boolean" Value="1"/>
+<Parameter Name="Perceptual Based" Type="Boolean" Value="0"/>
+<Parameter Name="Max Direct Error" Type="Real" Value="0.02"/>
+<Parameter Name="./Photon Mapping/Enable" Type="Boolean" Value="1"/>
+<Parameter Name="./Caustics/Enable" Type="Boolean" Value="0"/>
+<Parameter Name="Leak Compensation" Type="Boolean" Value="0"/>
+<Parameter Name="Caustic Sharpening" Type="Boolean" Value="0"/>
+<Parameter Name="Photons Captured" Type="Integer" Value="1000000"/>
+<Parameter Name="Caustic Captured" Type="Integer" Value="10000"/>
+<Parameter Name="Global Photons" Type="Integer" Value="400"/>
+<Parameter Name="Caustic Photons" Type="Integer" Value="400"/>
+<Parameter Name="Global Radius" Type="Real" Value="0.5"/>
+<Parameter Name="Caustic Radius" Type="Real" Value="0.1"/>
+<Parameter Name="./Gathering/Enable" Type="Boolean" Value="1"/>
+<Parameter Name="./Gathering/Samples" Type="Integer" Value="500"/>
+<Parameter Name="./Gathering/Diffuse Depth" Type="Integer" Value="1"/>
+<Parameter Name="./Gathering/Secondary Gather" Type="Boolean" Value="0"/>
+<Parameter Name="./Gathering/Distance Threshold (m)" Type="Real" Value="0.1"/>
+<Parameter Name="./Gathering/Tracing Depth" Type="Integer" Value="2"/>
+<Parameter Name="./Gathering/Trace Reflections" Type="Boolean" Value="1"/>
+<Parameter Name="./Gathering/Trace Refractions" Type="Boolean" Value="1"/>
+<Parameter Name="./Gathering/Trace Transparencies" Type="Boolean" Value="1"/>
+<Parameter Name="./IrrCache/Enable" Type="Boolean" Value="1"/>
+<Parameter Name="./IrrCache/Visualize" Type="Boolean" Value="0"/>
+<Parameter Name="./IrrCache/Prepass" Type="String" Value="1/2"/>
+<Parameter Name="./IrrCache/Accuracy" Type="Real" Value="0.85"/>
+<Parameter Name="./Subsurface Scattering/Enable" Type="Boolean" Value="0"/>
+<Parameter Name="./Blurred Reflections/Enable" Type="Boolean" Value="1"/>
+<Parameter Name="Min Blurred Subdivs" Type="Integer" Value="0"/>
+<Parameter Name="Max Blurred Subdivs" Type="Integer" Value="3"/>
+<Parameter Name="./Ambient Occlusion/Enable" Type="Boolean" Value="1"/>
+<Parameter Name="./Ambient Occlusion/Distance" Type="Real" Value="10"/>
+<Parameter Name="./Ambient Lighting/Enable" Type="Boolean" Value="1"/>
+<Parameter Name="./Ambient Lighting/Intensity" Type="Real" Value="1"/>
+<Parameter Name="./Ambient Lighting/Color" Type="RGB" Value="1 1 1"/>
+<Parameter Name="./Channels/Normal" Type="Boolean" Value="0"/>
+<Parameter Name="./Channels/Depth" Type="Boolean" Value="0"/>
+<Parameter Name="./Channels/Alpha" Type="Boolean" Value="0"/>
+<Parameter Name="./Channels/Object Id" Type="Boolean" Value="0"/>
+<Parameter Name="./Channels/Material Id" Type="Boolean" Value="0"/>
+<Parameter Name="./Channels/Direct" Type="Boolean" Value="0"/>
+<Parameter Name="./Channels/GI" Type="Boolean" Value="0"/>
+<Parameter Name="./Channels/SSS" Type="Boolean" Value="0"/>
+<Parameter Name="./Channels/Reflection" Type="Boolean" Value="0"/>
+<Parameter Name="./Channels/Refraction" Type="Boolean" Value="0"/>
+<Parameter Name="./Channels/Transparent" Type="Boolean" Value="0"/>
+</Root>
