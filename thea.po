@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Thea Render RV678\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-21 13:02+0200\n"
-"PO-Revision-Date: 2013-03-09 10:58+0200\n"
+"PO-Revision-Date: 2013-03-09 12:27+0200\n"
 "Last-Translator: Nursill <Nursill@gmail.com>\n"
 "Language-Team: <>\n"
 "MIME-Version: 1.0\n"
@@ -975,7 +975,7 @@ msgid "Thea Studio"
 msgstr "Тея студия"
 
 msgid "[Demo Version]"
-msgstr ""
+msgstr "[Демострационная версия]"
 
 msgid "[Volume License]"
 msgstr ""
@@ -987,7 +987,7 @@ msgid "[Academic Lab License]"
 msgstr ""
 
 msgid "Rendering is in progress. Are you sure you want to quit?"
-msgstr ""
+msgstr "Визуализация в процессе. Вы уверены, что хотите выйти?"
 
 msgid "Abort Render?"
 msgstr "Отменить визуализацию"
@@ -1002,51 +1002,53 @@ msgid ""
 "Thea Render is now installed and ready to run.\n"
 "Data Folder set to: "
 msgstr ""
+"Тея установлена и готова к работе.\n"
+" Папка данных:"
 
 msgid "Installation Finished"
-msgstr ""
+msgstr "Установка завершена"
 
 msgid "Error on Farm Key"
 msgstr ""
 
 msgid "Error on User Key"
-msgstr ""
+msgstr "Ошибка ключа пользователя"
 
 msgid "Reason: Wrong format of user identification"
-msgstr ""
+msgstr "Причина: Неправильный формат идентификации пользователя"
 
 msgid "Reason: Wrong format of serial number"
-msgstr ""
+msgstr "Причина: Неправильный формат серийного номера"
 
 msgid "Reason: Wrong format of e-mail address"
-msgstr ""
+msgstr "Причина: Неправильный формат адреса электронной почты"
 
 msgid "Reason: Registration info is not available"
-msgstr ""
+msgstr "Причина: Регистрационные данные не доступны"
 
 msgid "Reason: Product code mismatch"
-msgstr ""
+msgstr "Причина: Несоответствие кода товара"
 
 msgid "Reason: E-mail address mismatch"
-msgstr ""
+msgstr "Причина: адрес электронной почты несоответствует"
 
 msgid "Reason: Full name mismatch"
-msgstr ""
+msgstr "Причина: Несоответствие названия"
 
 msgid "Could not establish connection with server."
-msgstr ""
+msgstr "Не удалось установить соединение с сервером."
 
 msgid "Signal could not be sent or was not accepted."
-msgstr ""
+msgstr "Сигнал не может быть отправленый или принятый."
 
 msgid "Add to Favorites"
-msgstr ""
+msgstr "Добавить в избранное"
 
 msgid "Remove from Favorites"
-msgstr ""
+msgstr "Удалить из Избранного"
 
 msgid "Favorites"
-msgstr ""
+msgstr "Избранные"
 
 msgid "Examples"
 msgstr "Примеры"
@@ -1151,19 +1153,19 @@ msgid "&License Agreement (rtf)"
 msgstr ""
 
 msgid "&Data Folder"
-msgstr ""
+msgstr "&Папка данных"
 
 msgid "&Server Beacon"
-msgstr ""
+msgstr "&Маяк сервера"
 
 msgid "&License Form..."
-msgstr ""
+msgstr "&Форма лицензии..."
 
 msgid "&Material Diagnostics"
-msgstr ""
+msgstr "&Диагностика материалов"
 
 msgid "&Scene Benchmark"
-msgstr ""
+msgstr "&Стандартная сцена"
 
 msgid "&File"
 msgstr "Файл"
@@ -1190,34 +1192,34 @@ msgid "&Help"
 msgstr "Помощь"
 
 msgid "Omni"
-msgstr ""
+msgstr "Свет"
 
 msgid "Spot"
-msgstr ""
+msgstr "Направленный свет"
 
 msgid "IES"
 msgstr ""
 
 msgid "Projector"
-msgstr ""
+msgstr "Проектор"
 
 msgid "sun"
 msgstr "Солнце"
 
 msgid "You must restart Thea Render for the Language change to take effect."
-msgstr ""
+msgstr "Вы должны перезагрузить Тея чтобы изменения вступили в силу."
 
 msgid "Language Changed"
-msgstr ""
+msgstr "Язык изменен"
 
 msgid "You must restart Thea Render for the Theme changes to take effect."
-msgstr ""
+msgstr "Вы должны перезагрузить Тея чтобы изменения вступили в силу."
 
 msgid "Theme Changed"
-msgstr ""
+msgstr "Тема изменена"
 
 msgid "View"
-msgstr ""
+msgstr "Вид"
 
 msgid "Viewport"
 msgstr "Предпросмотр"
@@ -1229,7 +1231,7 @@ msgid "Console"
 msgstr "Консоль"
 
 msgid "Workspace"
-msgstr ""
+msgstr "Рабочие пространство"
 
 msgid "Tree View"
 msgstr "Каталог"
@@ -1238,19 +1240,19 @@ msgid "Properties"
 msgstr "Свойства"
 
 msgid "Material Preview"
-msgstr ""
+msgstr "Просмотр материалов"
 
 msgid "Material Preview 2"
-msgstr ""
+msgstr "Просмотр материалов 2"
 
 msgid "Material Lab"
 msgstr "Материалы"
 
 msgid "Texture Lab"
-msgstr ""
+msgstr "Лаборатория текстур"
 
 msgid "Material Lab 2"
-msgstr ""
+msgstr "Лаборатория текстур 2"
 
 msgid "Environment"
 msgstr "Окружение"
