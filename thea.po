@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Thea Render RV678\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-21 13:02+0200\n"
-"PO-Revision-Date: 2013-03-08 22:55+0200\n"
+"PO-Revision-Date: 2013-03-09 10:58+0200\n"
 "Last-Translator: Nursill <Nursill@gmail.com>\n"
 "Language-Team: <>\n"
 "MIME-Version: 1.0\n"
@@ -621,20 +621,20 @@ msgid "Auto refresh image while rendering"
 msgstr ""
 
 msgid "Auto save image while rendering"
-msgstr ""
+msgstr "Автоматическое сохранение изображений при визуализации"
 
 msgid "License Input Form"
-msgstr ""
+msgstr "Форма лицензии"
 
 msgid ""
 "This product is successfully activated and registered with the following "
 "data."
-msgstr ""
+msgstr "Этот продукт успешно активирован и зарегистрирован."
 
 msgid ""
 "Your serial information appears to be valid, but you need to activate your "
 "license."
-msgstr ""
+msgstr "Ваш серийная информация доступна, но вы должны активировать лицензию."
 
 msgid ""
 "Please enter all the following data using ascii characters. These data will "
@@ -642,6 +642,10 @@ msgid ""
 "that your e-mail is correct and operational as it will be used to send you "
 "any activation codes."
 msgstr ""
+"Пожалуйста, введите все следующие данные с помощью ASCII-символов. Эти "
+"данные будут хранится скрынто и используются только для связи с вами о "
+"лицензировании. Убедитесь, что ваш адрес электронной почты является "
+"правильным, он будет использован для отправки вам кодов активации."
 
 msgid "Full Name"
 msgstr "Полное имя"
@@ -1311,7 +1315,7 @@ msgid "3D Files"
 msgstr ""
 
 msgid "Backup Files"
-msgstr ""
+msgstr "Резервное копирование файлов"
 
 msgid "The backup will be used to swap and read from the following file:\n"
 msgstr ""
@@ -1325,30 +1329,32 @@ msgid ""
 msgstr ""
 
 msgid "New Scene"
-msgstr ""
+msgstr "Новоая сцена"
 
 msgid "This will revert to your last saved scene, any changes will be lost!\n"
 msgstr ""
 
 msgid "Revert Scene"
-msgstr ""
+msgstr "Вернуть сцену"
 
 msgid ""
 "A newer version of the library is already installed. Do you want to proceed "
 "overwriting with this older version?"
 msgstr ""
+"Новая версия библиотеки уже установлены. Вы хотите, установить болие старую "
+"версию? (Это приведетк перезаписи файлов)"
 
 msgid "Install Older Version?"
-msgstr ""
+msgstr "Установка старой версии?"
 
 msgid "Select Library Data Folder"
-msgstr ""
+msgstr "Выберить папку данных библиотеки"
 
 msgid "Merging"
-msgstr ""
+msgstr "Объединение"
 
 msgid "Opening"
-msgstr ""
+msgstr "Открытие"
 
 msgid "Thea XML Files"
 msgstr ""
@@ -1360,7 +1366,7 @@ msgid "Thea Pack Files"
 msgstr ""
 
 msgid "Saving"
-msgstr ""
+msgstr "Сохранить"
 
 msgid "It is recommended to use default scene format during your work.\n"
 msgstr ""
@@ -1372,7 +1378,7 @@ msgid "No: Keep the currently used format:\n"
 msgstr ""
 
 msgid "Write"
-msgstr ""
+msgstr "Записать"
 
 msgid "The following file is going to be overwritten:\n"
 msgstr ""
@@ -1561,7 +1567,7 @@ msgid "Build All Previews"
 msgstr "Построить все предпросмотры"
 
 msgid "Automation"
-msgstr ""
+msgstr "Автоматизация"
 
 msgid "Select All"
 msgstr "Выбрать все"
@@ -1585,7 +1591,7 @@ msgid "Do you really want to rebuild the previews for the selected files?"
 msgstr ""
 
 msgid "Build Previews?"
-msgstr ""
+msgstr "Построить предпросмотр?"
 
 msgid ""
 "Do you really want to rebuild the previews for all files and folders "
@@ -1593,13 +1599,13 @@ msgid ""
 msgstr ""
 
 msgid "Build All Previews?"
-msgstr ""
+msgstr "Построить все предпросмотры?"
 
 msgid "Import Library"
-msgstr ""
+msgstr "Импорт библиотеки"
 
 msgid "Thea Package Files"
-msgstr ""
+msgstr "Пакет файлов Тея"
 
 msgid "Thea Material Package Files"
 msgstr ""
@@ -1608,22 +1614,22 @@ msgid "Thea Texture Package Files"
 msgstr ""
 
 msgid "Thea Model Package Files"
-msgstr ""
+msgstr "Пакет файлов моделей Тея"
 
 msgid "There was an error during importing library package."
-msgstr ""
+msgstr "Произошла ошибка при импорте пакета библиотек."
 
 msgid "Thea Scene Package Files"
-msgstr ""
+msgstr "Пакет файлов сцен Тея"
 
 msgid "Thea Sky Package Files"
-msgstr ""
+msgstr "Пакет файлов неба Тея"
 
 msgid "Export Library"
 msgstr "Экспорт библиотеки"
 
 msgid "There was an error during exporting library package."
-msgstr ""
+msgstr "Произошла ошибка при экспорте пакета библиотек."
 
 msgid "Do you really want to delete the selected files?"
 msgstr "Вы действительно хотите удалить выбранные файлы?"
@@ -1639,12 +1645,14 @@ msgstr "Название папки?"
 
 msgid ""
 "There was an error during folder creation (perhaps folder already exists)."
-msgstr ""
+msgstr "Произошла ошибка при создании папки (возможно, папка уже существует)."
 
 msgid ""
 "Please enter name for the environmental lighting (sky and image-based "
 "lighting)."
 msgstr ""
+"Пожалуйста, введите название для освещения окружающей среды (небо и "
+"графические освещение)."
 
 msgid "Save Sky"
 msgstr "Сохранить небо"
@@ -1653,13 +1661,13 @@ msgid "Select Folder"
 msgstr "Выбрать папку"
 
 msgid "Failed to save the following file:"
-msgstr ""
+msgstr "Не удалось сохранить следующие файлы:"
 
 msgid "Make sure that the name does not contain any invalid characters:"
-msgstr ""
+msgstr "Убедитесь, что навзание не содержит недопустимые символы:"
 
 msgid "Error in Saving File"
-msgstr ""
+msgstr "Ошибка при сохранение файла"
 
 msgid "Contribution"
 msgstr ""
