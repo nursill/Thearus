@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Thea Render RV678\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-21 13:02+0200\n"
-"PO-Revision-Date: 2013-03-09 12:27+0200\n"
+"PO-Revision-Date: 2013-03-09 13:37+0200\n"
 "Last-Translator: Nursill <Nursill@gmail.com>\n"
 "Language-Team: <>\n"
 "MIME-Version: 1.0\n"
@@ -1329,6 +1329,8 @@ msgid ""
 "This will make a complete clean up. Please, make sure that you have saved "
 "all your data.\n"
 msgstr ""
+"Это действие выполнит полную очистку. Пожалуйста, убедитесь, что вы "
+"сохранили все ваши данные.\n"
 
 msgid "New Scene"
 msgstr "Новоая сцена"
@@ -1359,10 +1361,10 @@ msgid "Opening"
 msgstr "Открытие"
 
 msgid "Thea XML Files"
-msgstr ""
+msgstr "Тея XML Файлы"
 
 msgid "Thea Zip-XML Files"
-msgstr ""
+msgstr "Тея Zip-XML Файлы"
 
 msgid "Thea Pack Files"
 msgstr ""
@@ -1372,12 +1374,13 @@ msgstr "Сохранить"
 
 msgid "It is recommended to use default scene format during your work.\n"
 msgstr ""
+"Рекомендуется использовать формат сцены по умолчанию во время работы.\n"
 
 msgid "Yes: Write to recommended binary format:\n"
-msgstr ""
+msgstr "Да: Запись в двоичном формате рекомендуется:\n"
 
 msgid "No: Keep the currently used format:\n"
-msgstr ""
+msgstr "Нет: Сохранить используемый формат:\n"
 
 msgid "Write"
 msgstr "Записать"
@@ -1386,7 +1389,7 @@ msgid "The following file is going to be overwritten:\n"
 msgstr ""
 
 msgid "Overwrite"
-msgstr ""
+msgstr "Перезаписать"
 
 msgid ""
 "Some render channels are already selected.\n"
@@ -1394,13 +1397,13 @@ msgid ""
 msgstr ""
 
 msgid "Keep Channels?"
-msgstr ""
+msgstr "Сохранить каналы?"
 
 msgid "Please enter display name."
-msgstr ""
+msgstr "Пожалуйста, введите отображаемое название."
 
 msgid "Display Name"
-msgstr ""
+msgstr "Отображаемое название"
 
 msgid ""
 "Some regions of interest are already selected.\n"
@@ -1770,7 +1773,7 @@ msgid "Max Rays Input"
 msgstr ""
 
 msgid "Browse..."
-msgstr ""
+msgstr "Обзор..."
 
 msgid "Max"
 msgstr "Максимально"
@@ -2023,13 +2026,13 @@ msgid "Add coating layer."
 msgstr ""
 
 msgid "Open Material"
-msgstr ""
+msgstr "Открыть материал"
 
 msgid "Thea Material Files"
-msgstr ""
+msgstr "Файлы материалов Тея"
 
 msgid "Save Material"
-msgstr ""
+msgstr "Сохранить материал"
 
 msgid "Show Procedurals"
 msgstr ""
@@ -2041,7 +2044,7 @@ msgid "Clean Up Bitmaps"
 msgstr ""
 
 msgid "Pro"
-msgstr ""
+msgstr "Про"
 
 msgid "Procedurals"
 msgstr ""
@@ -2068,13 +2071,13 @@ msgid "Original Source: "
 msgstr ""
 
 msgid "Resolution: "
-msgstr ""
+msgstr "Разришение:"
 
 msgid "Bitmap Info"
 msgstr ""
 
 msgid "Merge Options"
-msgstr ""
+msgstr "Параметры слияния"
 
 msgid "Keep Current - Throw Away New"
 msgstr ""
@@ -2277,7 +2280,7 @@ msgid "CRF"
 msgstr ""
 
 msgid "Filtering"
-msgstr ""
+msgstr "Фильтрация"
 
 msgid "Sharpness"
 msgstr ""
@@ -2334,7 +2337,7 @@ msgid "Max Z (m)"
 msgstr ""
 
 msgid "Analysis"
-msgstr ""
+msgstr "Анализ"
 
 msgid "Photometric"
 msgstr ""
@@ -2409,7 +2412,7 @@ msgid "Final Commit to Server"
 msgstr ""
 
 msgid "Frame"
-msgstr ""
+msgstr "Кадр"
 
 msgid "Thea Photometric Reports"
 msgstr ""
@@ -2438,10 +2441,10 @@ msgid "Luminance Analysis"
 msgstr ""
 
 msgid "Author"
-msgstr ""
+msgstr "Автор"
 
 msgid "Notes"
-msgstr ""
+msgstr "Примечания"
 
 msgid ""
 "Distributions are presented in % of most frequent value found within user "
@@ -2457,13 +2460,13 @@ msgid "Click here for the full resolution false color image"
 msgstr ""
 
 msgid "Whole Image"
-msgstr ""
+msgstr "Всего изображений"
 
 msgid "Avg/Min/Max: "
 msgstr ""
 
 msgid "Region"
-msgstr ""
+msgstr "Область"
 
 msgid "&Save Curve..."
 msgstr ""
@@ -2481,28 +2484,28 @@ msgid "Value"
 msgstr ""
 
 msgid "Red"
-msgstr ""
+msgstr "Красный"
 
 msgid "Green"
-msgstr ""
+msgstr "Зеленый"
 
 msgid "Blue"
-msgstr ""
+msgstr "Голубой"
 
 msgid "Coordinates"
-msgstr ""
+msgstr "Координаты"
 
 msgid "Center"
-msgstr ""
+msgstr "Центр"
 
 msgid "Min"
-msgstr ""
+msgstr "Мин"
 
 msgid "Rotation"
-msgstr ""
+msgstr "Вращение"
 
 msgid "Enable"
-msgstr ""
+msgstr "Включить"
 
 msgid "Rotation (deg)"
 msgstr ""
@@ -2520,28 +2523,28 @@ msgid "IES Files"
 msgstr ""
 
 msgid "Window"
-msgstr ""
+msgstr "Окно"
 
 msgid "Frames"
-msgstr ""
+msgstr "Кадр"
 
 msgid "Selection"
-msgstr ""
+msgstr "Выбор"
 
 msgid "Th/nails"
 msgstr ""
 
 msgid "Add"
-msgstr ""
+msgstr "Добавить"
 
 msgid "Remove"
-msgstr ""
+msgstr "Убрать"
 
 msgid "Saving interactive render output is disabled for demo version."
 msgstr ""
 
 msgid "Demo Version"
-msgstr ""
+msgstr "Демонстрационная версия"
 
 msgid "Lock aspect ratio."
 msgstr ""
@@ -2550,10 +2553,10 @@ msgid "Texture Preview"
 msgstr ""
 
 msgid "Width (m)"
-msgstr ""
+msgstr "Ширина (м)"
 
 msgid "Height (m)"
-msgstr ""
+msgstr "Высота (м)"
 
 msgid "Thea Texture Lab (Sub-Level)"
 msgstr ""
@@ -2562,13 +2565,13 @@ msgid "Thea Texture Lab"
 msgstr ""
 
 msgid "Reset texture."
-msgstr ""
+msgstr "Сброс текстуры."
 
 msgid "Import texture from disk."
-msgstr ""
+msgstr "Импорт текстур с диска."
 
 msgid "Save texture on disk."
-msgstr ""
+msgstr "Сохранить текстуру на диске."
 
 msgid "Setup texture preview render."
 msgstr ""
@@ -2580,7 +2583,7 @@ msgid "Global"
 msgstr ""
 
 msgid "Texture Layers"
-msgstr ""
+msgstr "Слои текстуры"
 
 msgid "Setup texture parameters and weighting."
 msgstr ""
@@ -2622,7 +2625,7 @@ msgid "Edit selection in sub-window."
 msgstr ""
 
 msgid "Level2"
-msgstr ""
+msgstr "Уровень 2"
 
 msgid "Relocate Bitmap"
 msgstr ""
@@ -2634,22 +2637,22 @@ msgid "Bitmap Files"
 msgstr ""
 
 msgid "Open Texture"
-msgstr ""
+msgstr "Открыть текстуру"
 
 msgid "Thea Texture Files"
-msgstr ""
+msgstr "Файлы текстуры Тея"
 
 msgid "Save Texture"
-msgstr ""
+msgstr "Сохранить текстуру"
 
 msgid "Please enter color name."
-msgstr ""
+msgstr "Пожалуйста, введите название цвета."
 
 msgid "Color Name"
-msgstr ""
+msgstr "Название цвета"
 
 msgid "Thea Color Lab"
-msgstr ""
+msgstr "Цветовая лаборатория Тея"
 
 msgid "Tristimulus"
 msgstr ""
@@ -2682,7 +2685,7 @@ msgid "Delete Palette"
 msgstr ""
 
 msgid "Undo Changes"
-msgstr ""
+msgstr "Отменить изменения"
 
 msgid "Spectrum"
 msgstr ""
@@ -2718,34 +2721,34 @@ msgid "Rename Model"
 msgstr ""
 
 msgid "Instance"
-msgstr ""
+msgstr "Образец"
 
 msgid "Canvas"
-msgstr ""
+msgstr "Поверхность"
 
 msgid "Perturbations"
 msgstr ""
 
 msgid "Direction"
-msgstr ""
+msgstr "Направление"
 
 msgid "Normal"
-msgstr ""
+msgstr "Нормальный"
 
 msgid "Roll"
-msgstr ""
+msgstr "Вращение"
 
 msgid "Placement"
-msgstr ""
+msgstr "Размещение"
 
 msgid "Minimum Distance (m)"
-msgstr ""
+msgstr "Минимальное расстояние (м)"
 
 msgid "Front Side"
 msgstr ""
 
 msgid "Snap to Grid"
-msgstr ""
+msgstr "Привязать к сетке"
 
 msgid "X Step (m)"
 msgstr ""
@@ -2763,34 +2766,34 @@ msgid "Tool Radius (pixels)"
 msgstr ""
 
 msgid "Population"
-msgstr ""
+msgstr "Количество"
 
 msgid "Modified Density"
 msgstr ""
 
 msgid "Populate"
-msgstr ""
+msgstr "Размножить"
 
 msgid "Brush"
-msgstr ""
+msgstr "Кисть"
 
 msgid "Erase"
-msgstr ""
+msgstr "Стиреть"
 
 msgid "This will delete all instances. Are you sure?"
-msgstr ""
+msgstr "Это приведет к удалению всех образцов. Вы уверены?"
 
 msgid "Clear Instances"
-msgstr ""
+msgstr "Очистить образцы"
 
 msgid "Package"
-msgstr ""
+msgstr "Пакет"
 
 msgid "Please enter new package name."
-msgstr ""
+msgstr "Пожалуйста, введите название нового пакета."
 
 msgid "New Instance Package"
-msgstr ""
+msgstr "Новый пакет образцов"
 
 msgid ""
 "An instance with the same name already exists. Do you want to link\n"
@@ -2809,13 +2812,13 @@ msgid ""
 msgstr ""
 
 msgid "Warning"
-msgstr ""
+msgstr "Предупреждение"
 
 msgid "Toggle parameter varying with time."
 msgstr ""
 
 msgid "Size"
-msgstr ""
+msgstr "Размер"
 
 msgid "Caustics"
 msgstr ""
@@ -2836,7 +2839,7 @@ msgid "Interactive Render Properties"
 msgstr ""
 
 msgid "Display Properties"
-msgstr ""
+msgstr "Показать свойства"
 
 msgid "Get IR Settings From Scene"
 msgstr ""
@@ -2870,22 +2873,22 @@ msgid "Jpeg Quality"
 msgstr ""
 
 msgid "Low"
-msgstr ""
+msgstr "Низкий"
 
 msgid "High"
-msgstr ""
+msgstr "Высокий"
 
 msgid "Higher"
-msgstr ""
+msgstr "Высший"
 
 msgid "Perfect"
 msgstr ""
 
 msgid "Filter"
-msgstr ""
+msgstr "Фильтр"
 
 msgid "Balance"
-msgstr ""
+msgstr "Баланс"
 
 msgid "Bloom"
 msgstr ""
@@ -2933,16 +2936,16 @@ msgid "Start Frame"
 msgstr ""
 
 msgid "End Frame"
-msgstr ""
+msgstr "Конец кадра"
 
 msgid "Current Frame"
-msgstr ""
+msgstr "Текущий кадр"
 
 msgid "Begin Frames"
 msgstr ""
 
 msgid "Active"
-msgstr ""
+msgstr "Активный"
 
 msgid "Duration (sec)"
 msgstr ""
@@ -2951,19 +2954,19 @@ msgid "Time"
 msgstr "Время"
 
 msgid "Frame Rate"
-msgstr ""
+msgstr "Частота кадров"
 
 msgid "Render Frames"
-msgstr ""
+msgstr "Визуализация кадров"
 
 msgid "Current"
-msgstr ""
+msgstr "Текущий"
 
 msgid "All"
 msgstr ""
 
 msgid "Selected"
-msgstr ""
+msgstr "Выбраный"
 
 msgid "Clock Start"
 msgstr ""
@@ -2975,7 +2978,7 @@ msgid "Layer Mask"
 msgstr ""
 
 msgid "Engine Core"
-msgstr ""
+msgstr "Ядро движка"
 
 msgid "Adaptive (BSD)"
 msgstr ""
@@ -3023,7 +3026,7 @@ msgid "Volumetric Scattering"
 msgstr ""
 
 msgid "Image Saving"
-msgstr ""
+msgstr "Сохранить изображение"
 
 msgid "Film Saving"
 msgstr ""
@@ -3032,7 +3035,7 @@ msgid "Priority"
 msgstr "Приоритет"
 
 msgid "Lower"
-msgstr ""
+msgstr "Нижний"
 
 msgid "Upload Period"
 msgstr "Период загрузки"
@@ -3068,7 +3071,7 @@ msgid "Max AA Subdivs"
 msgstr ""
 
 msgid "Reflectance"
-msgstr ""
+msgstr "Коэффициент отражения"
 
 msgid "Perceptual Based"
 msgstr ""
@@ -3161,7 +3164,7 @@ msgid "Clamp"
 msgstr ""
 
 msgid "Distance"
-msgstr ""
+msgstr "Расстояние"
 
 msgid "Low Color"
 msgstr ""
@@ -3170,7 +3173,7 @@ msgid "High Color"
 msgstr ""
 
 msgid "Intensity"
-msgstr ""
+msgstr "Интенсивность"
 
 msgid "Depth"
 msgstr ""
@@ -3179,13 +3182,13 @@ msgid "Alpha"
 msgstr ""
 
 msgid "Object Id"
-msgstr ""
+msgstr "Объект Id"
 
 msgid "Material Id"
-msgstr ""
+msgstr "Матерал Id"
 
 msgid "Direct"
-msgstr ""
+msgstr "Напревление"
 
 msgid "AO"
 msgstr ""
@@ -3194,10 +3197,10 @@ msgid "GI"
 msgstr ""
 
 msgid "Reflection"
-msgstr ""
+msgstr "Отражение"
 
 msgid "Refraction"
-msgstr ""
+msgstr "Преломление"
 
 msgid "Transparent"
 msgstr ""
@@ -3227,7 +3230,7 @@ msgid "Brightness Threshold"
 msgstr ""
 
 msgid "Film"
-msgstr ""
+msgstr "Фильм"
 
 msgid ""
 "The resolution of the generated image in the format PxL (P: pixels, L: "
@@ -3296,22 +3299,22 @@ msgid "Lens"
 msgstr ""
 
 msgid "Projection"
-msgstr ""
+msgstr "Проекция"
 
 msgid "Describes the kind of lens projection on the film"
 msgstr ""
 
 msgid "Perspective"
-msgstr ""
+msgstr "Перспективный"
 
 msgid "Cylindrical"
-msgstr ""
+msgstr "Цилиндрический"
 
 msgid "Spherical"
-msgstr ""
+msgstr "Сферический"
 
 msgid "Parallel"
-msgstr ""
+msgstr "Параллельный"
 
 msgid "The inverse of the exposure time, counted in frames/sec."
 msgstr ""
@@ -3451,7 +3454,7 @@ msgid "Perceptual Level"
 msgstr ""
 
 msgid "Default"
-msgstr ""
+msgstr "Стандартный"
 
 msgid "Description"
 msgstr ""
@@ -3584,7 +3587,7 @@ msgid "Thickness Map"
 msgstr ""
 
 msgid "Structure"
-msgstr ""
+msgstr "Структура"
 
 msgid "Bump Strength"
 msgstr ""
@@ -3694,13 +3697,13 @@ msgid "Bitmap Options"
 msgstr ""
 
 msgid "Filename"
-msgstr ""
+msgstr "Навзание файла"
 
 msgid "UV"
 msgstr ""
 
 msgid "Cubic"
-msgstr ""
+msgstr "Кубический"
 
 msgid "Front"
 msgstr ""
@@ -3904,7 +3907,7 @@ msgid "lm/m2"
 msgstr ""
 
 msgid "Candelas"
-msgstr ""
+msgstr "Свечи"
 
 msgid "cd/m2"
 msgstr ""
@@ -4006,7 +4009,7 @@ msgid "Texture"
 msgstr "Тектсура"
 
 msgid "Strength"
-msgstr ""
+msgstr "Интенсивность"
 
 msgid "Bevel Mapping"
 msgstr ""
@@ -4369,28 +4372,28 @@ msgid "Group Selected Objects"
 msgstr ""
 
 msgid "Ungroup Selection"
-msgstr ""
+msgstr "Разгрупировать объекты"
 
 msgid "Duplicate Object"
-msgstr ""
+msgstr "Дублировать объект"
 
 msgid "Translate Object"
 msgstr ""
 
 msgid "Rotate Object"
-msgstr ""
+msgstr "Вращать объект"
 
 msgid "Scale Object"
-msgstr ""
+msgstr "Размер объекта"
 
 msgid "Delete Object"
-msgstr ""
+msgstr "Удалить объект"
 
 msgid "Hide Object"
-msgstr ""
+msgstr "Спрятать объект"
 
 msgid "Show all Objects"
-msgstr ""
+msgstr "Показать все объекты"
 
 msgid "Object Layer 0"
 msgstr ""
